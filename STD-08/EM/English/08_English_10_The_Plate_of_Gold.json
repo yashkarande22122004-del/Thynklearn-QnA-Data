@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.10",
+    "standard": "8",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Plate of Gold"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Heaven",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A river",
+          "is_correct": false
+        }
+      ],
+      "answer": "Heaven"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a market",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a temple courtyard",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In a street",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a temple courtyard"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What words were written on the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To him who gives most",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To him who loveth best",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To the richest man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the wisest man",
+          "is_correct": false
+        }
+      ],
+      "answer": "To him who loveth best"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who made the proclamation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Priests",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Scholars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Priests"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "At what time were the claimants to assemble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Night",
+          "is_correct": false
+        }
+      ],
+      "answer": "Midday"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who came to claim the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only rich men",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from every quarter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only priests",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from every quarter"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why did the plate turn to lead?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It was cursed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "God rejected false love",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It was fake",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priests changed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "God rejected false love"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How long did the priests judge the claimants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One month",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Six months",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "One year",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Two years",
+          "is_correct": false
+        }
+      ],
+      "answer": "One year"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who finally received the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A scholar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A simple peasant",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "A simple peasant"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why did the plate shine brightly for the peasant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He helped the poor selflessly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He prayed loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He donated gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He helped the poor selflessly"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Heaven",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A river",
+          "is_correct": false
+        }
+      ],
+      "answer": "Heaven"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a market",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a temple courtyard",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In a street",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a temple courtyard"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What words were written on the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To him who gives most",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To him who loveth best",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To the richest man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the wisest man",
+          "is_correct": false
+        }
+      ],
+      "answer": "To him who loveth best"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who made the proclamation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Priests",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Scholars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Priests"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "At what time were the claimants to assemble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Night",
+          "is_correct": false
+        }
+      ],
+      "answer": "Midday"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who came to claim the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only rich men",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from every quarter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only priests",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from every quarter"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Why did the plate turn to lead?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It was cursed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "God rejected false love",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It was fake",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priests changed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "God rejected false love"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How long did the priests judge the claimants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One month",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Six months",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "One year",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Two years",
+          "is_correct": false
+        }
+      ],
+      "answer": "One year"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who finally received the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A scholar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A simple peasant",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "A simple peasant"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why did the plate shine brightly for the peasant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He helped the poor selflessly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He prayed loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He donated gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He helped the poor selflessly"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Heaven",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A river",
+          "is_correct": false
+        }
+      ],
+      "answer": "Heaven"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a market",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a temple courtyard",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In a street",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a temple courtyard"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What words were written on the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To him who gives most",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To him who loveth best",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To the richest man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the wisest man",
+          "is_correct": false
+        }
+      ],
+      "answer": "To him who loveth best"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who made the proclamation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Priests",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Scholars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Priests"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "At what time were the claimants to assemble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Night",
+          "is_correct": false
+        }
+      ],
+      "answer": "Midday"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who came to claim the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only rich men",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from every quarter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only priests",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from every quarter"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Why did the plate turn to lead?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It was cursed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "God rejected false love",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It was fake",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priests changed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "God rejected false love"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "How long did the priests judge the claimants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One month",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Six months",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "One year",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Two years",
+          "is_correct": false
+        }
+      ],
+      "answer": "One year"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who finally received the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A scholar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A simple peasant",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "A simple peasant"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why did the plate shine brightly for the peasant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He helped the poor selflessly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He prayed loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He donated gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He helped the poor selflessly"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Heaven",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A river",
+          "is_correct": false
+        }
+      ],
+      "answer": "Heaven"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a market",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a temple courtyard",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In a street",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a temple courtyard"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What words were written on the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To him who gives most",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To him who loveth best",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To the richest man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the wisest man",
+          "is_correct": false
+        }
+      ],
+      "answer": "To him who loveth best"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who made the proclamation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Priests",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Scholars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Priests"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "At what time were the claimants to assemble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Night",
+          "is_correct": false
+        }
+      ],
+      "answer": "Midday"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who came to claim the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only rich men",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from every quarter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only priests",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from every quarter"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Why did the plate turn to lead?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It was cursed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "God rejected false love",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It was fake",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priests changed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "God rejected false love"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "How long did the priests judge the claimants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One month",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Six months",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "One year",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Two years",
+          "is_correct": false
+        }
+      ],
+      "answer": "One year"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who finally received the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A scholar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A simple peasant",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "A simple peasant"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why did the plate shine brightly for the peasant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He helped the poor selflessly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He prayed loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He donated gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He helped the poor selflessly"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Heaven",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A river",
+          "is_correct": false
+        }
+      ],
+      "answer": "Heaven"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Where did the plate of gold fall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a market",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a temple courtyard",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In a street",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a temple courtyard"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What words were written on the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To him who gives most",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To him who loveth best",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To the richest man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To the wisest man",
+          "is_correct": false
+        }
+      ],
+      "answer": "To him who loveth best"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who made the proclamation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Priests",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Scholars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Priests"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "At what time were the claimants to assemble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Night",
+          "is_correct": false
+        }
+      ],
+      "answer": "Midday"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who came to claim the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only rich men",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from every quarter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only priests",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from every quarter"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Why did the plate turn to lead?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It was cursed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "God rejected false love",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It was fake",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priests changed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "God rejected false love"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "How long did the priests judge the claimants?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One month",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Six months",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "One year",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Two years",
+          "is_correct": false
+        }
+      ],
+      "answer": "One year"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who finally received the plate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A scholar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A simple peasant",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "A simple peasant"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why did the plate shine brightly for the peasant?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He helped the poor selflessly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He prayed loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He donated gold",
+          "is_correct": false
+        }
+      ],
+      "answer": "He helped the poor selflessly"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why was the plate of gold considered a gift from Heaven?",
+      "answer": "Because it fell from Heaven with a divine message written on it."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What condition was set to receive the plate of gold?",
+      "answer": "It was to be given to the one who loved God the most."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why did many claimants fail to receive the plate?",
+      "answer": "Their love was not sincere and selfless."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What happened when false claimants touched the plate?",
+      "answer": "The plate changed into basest lead."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why were beggars gathered outside the temple?",
+      "answer": "They hoped to receive charity from pilgrims."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What mistake did the pilgrims make while giving alms?",
+      "answer": "They did not show real compassion or concern."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What moved the peasant’s heart?",
+      "answer": "The suffering of a blind and helpless beggar."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What did the peasant say to the blind beggar?",
+      "answer": "He comforted him and asked him to trust God."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why was the peasant chosen by God?",
+      "answer": "Because his love and kindness were genuine and selfless."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "Service to mankind is service to God."
+    }
+  ]
+}

@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.05",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "विश्वविख्यात शास्त्रज्ञ – स्टीफन हॉकिंग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘विश्वविख्यात शास्त्रज्ञ – स्टीफन हॉकिंग’ हा पाठ कोणत्या प्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चरित्रात्मक लेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "चरित्रात्मक लेख"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग कोणत्या क्षेत्रातील शास्त्रज्ञ होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायनशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भौतिकशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूगोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "भौतिकशास्त्र"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांचे मुख्य संशोधन कोणत्या विषयाशी संबंधित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ब्लॅक होल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रसायने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवामान",
+          "is_correct": false
+        }
+      ],
+      "answer": "ब्लॅक होल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांना कोणता आजार झाला होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्करोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ALS (मोटर न्यूरॉन आजार)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मधुमेह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हृदयरोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "ALS (मोटर न्यूरॉन आजार)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील मोठे वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शारीरिक ताकद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अदम्य इच्छाशक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राजकीय सत्ता",
+          "is_correct": false
+        }
+      ],
+      "answer": "अदम्य इच्छाशक्ती"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणती प्रेरणा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अडचणींवर मात करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जोखीम टाळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तक्रार करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "अडचणींवर मात करणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांनी विज्ञानासाठी काय योगदान दिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवे सिद्धांत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राजकीय बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सामाजिक चळवळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण पद्धती",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवे सिद्धांत"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनकथेचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरोग्य महत्त्वाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संघर्षातून यश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब सर्वकाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांती आवश्यक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संघर्षातून यश"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "या पाठाची भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व प्रेरणादायी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणा मिळण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास शिकण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाषा कठीण करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा मिळण्यासाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशामुळे निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आजारामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दारिद्र्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारामुळे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची जिद्द कशातून दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्यांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यांतून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त शास्त्रज्ञांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्यार्थ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशामुळे निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आजारामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दारिद्र्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारामुळे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची जिद्द कशातून दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्यांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यांतून"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त शास्त्रज्ञांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्यार्थ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशामुळे निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आजारामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दारिद्र्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारामुळे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची जिद्द कशातून दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्यांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यांतून"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त शास्त्रज्ञांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्यार्थ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशामुळे निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आजारामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दारिद्र्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारामुळे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची जिद्द कशातून दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्यांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यांतून"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त शास्त्रज्ञांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्यार्थ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशामुळे निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आजारामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दारिद्र्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारामुळे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची जिद्द कशातून दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्यांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यांतून"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त शास्त्रज्ञांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्यार्थ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशामुळे निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आजारामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दारिद्र्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारामुळे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची जिद्द कशातून दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्यांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यांतून"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त शास्त्रज्ञांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्यार्थ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशामुळे निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आजारामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दारिद्र्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारामुळे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची जिद्द कशातून दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्यांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यांतून"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त शास्त्रज्ञांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्यार्थ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशामुळे निर्माण झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आजारामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दारिद्र्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्धामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारामुळे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची जिद्द कशातून दिसून येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्यांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यांतून"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त शास्त्रज्ञांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्यार्थ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "स्टीफन हॉकिंग कोण होते?",
+      "answer": "स्टीफन हॉकिंग हे जगप्रसिद्ध भौतिकशास्त्रज्ञ होते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे मुख्य संशोधन क्षेत्र कोणते होते?",
+      "answer": "ब्लॅक होल आणि विश्वरचना."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांना कोणता आजार झाला होता?",
+      "answer": "ALS (मोटर न्यूरॉन आजार)."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "आजार असूनही हॉकिंग यशस्वी कसे झाले?",
+      "answer": "अदम्य इच्छाशक्ती आणि बुद्धिमत्तेमुळे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "अडचणी असूनही हार मानू नये."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांचे विज्ञानातील योगदान काय आहे?",
+      "answer": "ब्लॅक होल सिद्धांत आणि विश्वावरील संशोधन."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनाचा मुख्य संदेश कोणता आहे?",
+      "answer": "संघर्षातून यश मिळू शकते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+      "answer": "तो जिद्द आणि चिकाटीची शिकवण देतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "हॉकिंग यांच्या जीवनातील संघर्ष कोणता होता?",
+      "answer": "शारीरिक अपंगत्वावर मात करणे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी आहे."
+    }
+  ]
+}

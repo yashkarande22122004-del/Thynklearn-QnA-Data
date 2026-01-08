@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.09",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Map Scale"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is a map scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Direction on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Distance on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ratio between map distance and ground distance",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Map symbols",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ratio between map distance and ground distance"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which scale shows distance in words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Statement scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Graphic scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Statement scale"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which scale is written as a ratio like 1:50,000?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Graphic scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Representative Fraction",
+          "is_correct": true
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which scale remains accurate even if a map is enlarged or reduced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Numerical scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which scale is also called bar scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fractional scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Large scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Large area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small area, more detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Large area, more detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small area, more detail"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Small scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small area, more detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large area, less detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Equal detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Large area, less detail"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which map usually uses a large scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "World map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atlas map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Village map",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Continent map",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village map"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which scale is best for measuring distances directly on a map?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does RF stand for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ratio Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Figure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Representative Fraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Relative Fraction",
+          "is_correct": false
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is a map scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Direction on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Distance on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ratio between map distance and ground distance",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Map symbols",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ratio between map distance and ground distance"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which scale shows distance in words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Statement scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Graphic scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Statement scale"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which scale is written as a ratio like 1:50,000?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Graphic scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Representative Fraction",
+          "is_correct": true
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which scale remains accurate even if a map is enlarged or reduced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Numerical scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which scale is also called bar scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fractional scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Large scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Large area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small area, more detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Large area, more detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small area, more detail"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Small scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small area, more detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large area, less detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Equal detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Large area, less detail"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which map usually uses a large scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "World map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atlas map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Village map",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Continent map",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village map"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which scale is best for measuring distances directly on a map?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does RF stand for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ratio Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Figure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Representative Fraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Relative Fraction",
+          "is_correct": false
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is a map scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Direction on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Distance on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ratio between map distance and ground distance",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Map symbols",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ratio between map distance and ground distance"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which scale shows distance in words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Statement scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Graphic scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Statement scale"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which scale is written as a ratio like 1:50,000?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Graphic scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Representative Fraction",
+          "is_correct": true
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which scale remains accurate even if a map is enlarged or reduced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Numerical scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which scale is also called bar scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fractional scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Large scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Large area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small area, more detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Large area, more detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small area, more detail"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Small scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small area, more detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large area, less detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Equal detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Large area, less detail"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which map usually uses a large scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "World map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atlas map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Village map",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Continent map",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village map"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which scale is best for measuring distances directly on a map?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does RF stand for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ratio Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Figure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Representative Fraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Relative Fraction",
+          "is_correct": false
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is a map scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Direction on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Distance on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ratio between map distance and ground distance",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Map symbols",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ratio between map distance and ground distance"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which scale shows distance in words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Statement scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Graphic scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Statement scale"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which scale is written as a ratio like 1:50,000?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Graphic scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Representative Fraction",
+          "is_correct": true
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which scale remains accurate even if a map is enlarged or reduced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Numerical scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which scale is also called bar scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fractional scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Large scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Large area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small area, more detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Large area, more detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small area, more detail"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Small scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small area, more detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large area, less detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Equal detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Large area, less detail"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which map usually uses a large scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "World map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atlas map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Village map",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Continent map",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village map"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which scale is best for measuring distances directly on a map?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What does RF stand for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ratio Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Figure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Representative Fraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Relative Fraction",
+          "is_correct": false
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is a map scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Direction on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Distance on map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ratio between map distance and ground distance",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Map symbols",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ratio between map distance and ground distance"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which scale shows distance in words?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Statement scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Graphic scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Statement scale"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which scale is written as a ratio like 1:50,000?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Graphic scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Representative Fraction",
+          "is_correct": true
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which scale remains accurate even if a map is enlarged or reduced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Numerical scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which scale is also called bar scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fractional scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Large scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Large area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small area, more detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Large area, more detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small area, more detail"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Small scale maps show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small area, more detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Large area, less detail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Small area, less detail",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Equal detail",
+          "is_correct": false
+        }
+      ],
+      "answer": "Large area, less detail"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which map usually uses a large scale?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "World map",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atlas map",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Village map",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Continent map",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village map"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which scale is best for measuring distances directly on a map?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Statement scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "RF scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Linear scale",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Linear scale"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What does RF stand for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ratio Fraction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Representative Figure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Representative Fraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Relative Fraction",
+          "is_correct": false
+        }
+      ],
+      "answer": "Representative Fraction"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is map scale?",
+      "answer": "Map scale is the ratio between a distance on the map and the corresponding distance on the ground."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Name the types of map scales.",
+      "answer": "Statement scale, Representative Fraction and Linear scale are types of map scales."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is a statement scale?",
+      "answer": "A statement scale expresses map distance in words."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is a representative fraction?",
+      "answer": "Representative fraction shows the ratio between map distance and ground distance in numerical form."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is linear scale important?",
+      "answer": "Linear scale remains accurate even if the map size changes."
+    }
+  ]
+}

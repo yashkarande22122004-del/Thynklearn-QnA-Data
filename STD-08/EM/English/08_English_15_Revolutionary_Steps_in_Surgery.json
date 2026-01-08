@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.15",
+    "standard": "8",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Revolutionary Steps in Surgery"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who wrote the ancient surgical text Sushruta Samhita?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sushruta",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aryabhata",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dhanvantari",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sushruta"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why could major surgery not develop earlier?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lack of doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lack of hospitals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lack of knowledge and technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Lack of money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lack of knowledge and technology"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which substances made painless surgery possible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antibiotics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sedatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anaesthetics",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vaccines",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anaesthetics"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which anaesthetics were used in the mid nineteenth century?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen and nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ether and chloroform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Morphine and alcohol",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Insulin and glucose",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ether and chloroform"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who performed the first successful heart surgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harvey Cushing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Daniel Hale Williams",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daniel Hale Williams"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was the patient saved by Dr Williams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Cornish"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What was injured near James Cornish’s heart?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A vein",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A valve",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A nerve",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artery"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which part of the heart was punctured?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Atrium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ventricle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pericardium",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Aorta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pericardium"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who is called the father of modern neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daniel Hale Williams",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Harvey Cushing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Harvey Cushing"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What invention reduced blood loss in neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laser",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cushing clip",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Robotic arm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Valve",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cushing clip"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who wrote the ancient surgical text Sushruta Samhita?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sushruta",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aryabhata",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dhanvantari",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sushruta"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why could major surgery not develop earlier?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lack of doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lack of hospitals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lack of knowledge and technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Lack of money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lack of knowledge and technology"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which substances made painless surgery possible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antibiotics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sedatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anaesthetics",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vaccines",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anaesthetics"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which anaesthetics were used in the mid nineteenth century?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen and nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ether and chloroform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Morphine and alcohol",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Insulin and glucose",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ether and chloroform"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who performed the first successful heart surgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harvey Cushing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Daniel Hale Williams",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daniel Hale Williams"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who was the patient saved by Dr Williams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Cornish"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What was injured near James Cornish’s heart?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A vein",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A valve",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A nerve",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artery"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which part of the heart was punctured?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Atrium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ventricle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pericardium",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Aorta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pericardium"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who is called the father of modern neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daniel Hale Williams",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Harvey Cushing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Harvey Cushing"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What invention reduced blood loss in neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laser",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cushing clip",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Robotic arm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Valve",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cushing clip"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who wrote the ancient surgical text Sushruta Samhita?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sushruta",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aryabhata",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dhanvantari",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sushruta"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why could major surgery not develop earlier?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lack of doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lack of hospitals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lack of knowledge and technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Lack of money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lack of knowledge and technology"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which substances made painless surgery possible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antibiotics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sedatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anaesthetics",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vaccines",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anaesthetics"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which anaesthetics were used in the mid nineteenth century?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen and nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ether and chloroform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Morphine and alcohol",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Insulin and glucose",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ether and chloroform"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who performed the first successful heart surgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harvey Cushing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Daniel Hale Williams",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daniel Hale Williams"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who was the patient saved by Dr Williams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Cornish"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What was injured near James Cornish’s heart?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A vein",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A valve",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A nerve",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artery"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which part of the heart was punctured?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Atrium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ventricle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pericardium",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Aorta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pericardium"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who is called the father of modern neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daniel Hale Williams",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Harvey Cushing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Harvey Cushing"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What invention reduced blood loss in neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laser",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cushing clip",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Robotic arm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Valve",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cushing clip"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who wrote the ancient surgical text Sushruta Samhita?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sushruta",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aryabhata",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dhanvantari",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sushruta"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why could major surgery not develop earlier?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lack of doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lack of hospitals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lack of knowledge and technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Lack of money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lack of knowledge and technology"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which substances made painless surgery possible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antibiotics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sedatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anaesthetics",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vaccines",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anaesthetics"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which anaesthetics were used in the mid nineteenth century?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen and nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ether and chloroform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Morphine and alcohol",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Insulin and glucose",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ether and chloroform"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who performed the first successful heart surgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harvey Cushing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Daniel Hale Williams",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daniel Hale Williams"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who was the patient saved by Dr Williams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Cornish"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What was injured near James Cornish’s heart?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A vein",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A valve",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A nerve",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artery"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which part of the heart was punctured?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Atrium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ventricle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pericardium",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Aorta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pericardium"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who is called the father of modern neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daniel Hale Williams",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Harvey Cushing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Harvey Cushing"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What invention reduced blood loss in neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laser",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cushing clip",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Robotic arm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Valve",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cushing clip"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who wrote the ancient surgical text Sushruta Samhita?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sushruta",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aryabhata",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dhanvantari",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sushruta"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why could major surgery not develop earlier?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lack of doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lack of hospitals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lack of knowledge and technology",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Lack of money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lack of knowledge and technology"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which substances made painless surgery possible?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Antibiotics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sedatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anaesthetics",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vaccines",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anaesthetics"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which anaesthetics were used in the mid nineteenth century?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oxygen and nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ether and chloroform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Morphine and alcohol",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Insulin and glucose",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ether and chloroform"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who performed the first successful heart surgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harvey Cushing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Daniel Hale Williams",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daniel Hale Williams"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who was the patient saved by Dr Williams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "James Cornish",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A doctor",
+          "is_correct": false
+        }
+      ],
+      "answer": "James Cornish"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What was injured near James Cornish’s heart?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A vein",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A valve",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A nerve",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artery"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which part of the heart was punctured?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Atrium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ventricle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pericardium",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Aorta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pericardium"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who is called the father of modern neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daniel Hale Williams",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Harvey Cushing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Charaka",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sushruta",
+          "is_correct": false
+        }
+      ],
+      "answer": "Harvey Cushing"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What invention reduced blood loss in neurosurgery?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Laser",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cushing clip",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Robotic arm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Valve",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cushing clip"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why was surgery painful in ancient times?",
+      "answer": "Because there were no anaesthetics to reduce pain."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is general anaesthesia?",
+      "answer": "It benumbs the whole body during surgery."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is local anaesthesia?",
+      "answer": "It numbs only the surgical area."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why was cardiac surgery unknown before 1893?",
+      "answer": "Doctors lacked modern tools and techniques."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Who was Daniel Hale Williams?",
+      "answer": "He was the first successful cardiac surgeon."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the pericardium?",
+      "answer": "It is the sack around the heart."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is neurosurgery?",
+      "answer": "It is surgery of the brain, spine, and nerves."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How did Harvey Cushing reduce mortality?",
+      "answer": "By controlling blood loss during surgery."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is robotic surgery?",
+      "answer": "It is minimally invasive surgery using robotic systems."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the Da Vinci system?",
+      "answer": "It is the world’s most advanced surgical robot."
+    }
+  ]
+}

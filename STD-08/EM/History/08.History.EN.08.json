@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.08",
+    "standard": "8",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Civil Disobedience Movement"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was launched in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1930",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1942",
+          "is_correct": false
+        }
+      ],
+      "answer": "1930"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who launched the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which event marked the beginning of the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dandi March",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Quit India Resolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chauri Chaura",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Round Table Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dandi March"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was started to oppose which law?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rowlatt Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt Law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vernacular Press Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pitt’s India Act",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt Law"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "From where did Gandhiji start the Dandi March?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sabarmati Ashram",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wardha",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Champaran",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sevagram",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sabarmati Ashram"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was the main objective of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Complete independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Civil rights only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Social reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Complete independence"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which section of people actively participated in the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from all sections",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only leaders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from all sections"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which agreement led to the suspension of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poona Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gandhi-Irwin Pact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lucknow Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Delhi Pact",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gandhi-Irwin Pact"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which conference followed the Gandhi-Irwin Pact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "First Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Second Round Table Conference",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Third Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Simla Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Second Round Table Conference"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was mainly a ____ movement.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Violent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Armed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Peaceful mass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secret",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peaceful mass"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was launched in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1930",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1942",
+          "is_correct": false
+        }
+      ],
+      "answer": "1930"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who launched the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which event marked the beginning of the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dandi March",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Quit India Resolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chauri Chaura",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Round Table Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dandi March"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was started to oppose which law?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rowlatt Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt Law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vernacular Press Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pitt’s India Act",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt Law"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "From where did Gandhiji start the Dandi March?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sabarmati Ashram",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wardha",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Champaran",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sevagram",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sabarmati Ashram"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What was the main objective of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Complete independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Civil rights only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Social reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Complete independence"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which section of people actively participated in the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from all sections",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only leaders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from all sections"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which agreement led to the suspension of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poona Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gandhi-Irwin Pact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lucknow Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Delhi Pact",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gandhi-Irwin Pact"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which conference followed the Gandhi-Irwin Pact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "First Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Second Round Table Conference",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Third Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Simla Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Second Round Table Conference"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was mainly a ____ movement.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Violent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Armed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Peaceful mass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secret",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peaceful mass"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was launched in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1930",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1942",
+          "is_correct": false
+        }
+      ],
+      "answer": "1930"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who launched the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which event marked the beginning of the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dandi March",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Quit India Resolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chauri Chaura",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Round Table Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dandi March"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was started to oppose which law?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rowlatt Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt Law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vernacular Press Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pitt’s India Act",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt Law"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "From where did Gandhiji start the Dandi March?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sabarmati Ashram",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wardha",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Champaran",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sevagram",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sabarmati Ashram"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What was the main objective of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Complete independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Civil rights only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Social reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Complete independence"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which section of people actively participated in the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from all sections",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only leaders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from all sections"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which agreement led to the suspension of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poona Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gandhi-Irwin Pact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lucknow Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Delhi Pact",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gandhi-Irwin Pact"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which conference followed the Gandhi-Irwin Pact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "First Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Second Round Table Conference",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Third Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Simla Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Second Round Table Conference"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was mainly a ____ movement.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Violent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Armed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Peaceful mass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secret",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peaceful mass"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was launched in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1930",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1942",
+          "is_correct": false
+        }
+      ],
+      "answer": "1930"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who launched the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which event marked the beginning of the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dandi March",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Quit India Resolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chauri Chaura",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Round Table Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dandi March"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was started to oppose which law?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rowlatt Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt Law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vernacular Press Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pitt’s India Act",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt Law"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "From where did Gandhiji start the Dandi March?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sabarmati Ashram",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wardha",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Champaran",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sevagram",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sabarmati Ashram"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was the main objective of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Complete independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Civil rights only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Social reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Complete independence"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which section of people actively participated in the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from all sections",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only leaders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from all sections"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which agreement led to the suspension of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poona Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gandhi-Irwin Pact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lucknow Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Delhi Pact",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gandhi-Irwin Pact"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which conference followed the Gandhi-Irwin Pact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "First Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Second Round Table Conference",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Third Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Simla Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Second Round Table Conference"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was mainly a ____ movement.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Violent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Armed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Peaceful mass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secret",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peaceful mass"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was launched in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1930",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1942",
+          "is_correct": false
+        }
+      ],
+      "answer": "1930"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who launched the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which event marked the beginning of the Civil Disobedience Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dandi March",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Quit India Resolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chauri Chaura",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Round Table Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dandi March"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was started to oppose which law?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rowlatt Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt Law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vernacular Press Act",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pitt’s India Act",
+          "is_correct": false
+        }
+      ],
+      "answer": "Salt Law"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "From where did Gandhiji start the Dandi March?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sabarmati Ashram",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wardha",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Champaran",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sevagram",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sabarmati Ashram"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What was the main objective of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Complete independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Civil rights only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Social reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Complete independence"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which section of people actively participated in the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People from all sections",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only leaders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People from all sections"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which agreement led to the suspension of the movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poona Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gandhi-Irwin Pact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lucknow Pact",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Delhi Pact",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gandhi-Irwin Pact"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which conference followed the Gandhi-Irwin Pact?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "First Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Second Round Table Conference",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Third Round Table Conference",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Simla Conference",
+          "is_correct": false
+        }
+      ],
+      "answer": "Second Round Table Conference"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The Civil Disobedience Movement was mainly a ____ movement.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Violent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Armed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Peaceful mass",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secret",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peaceful mass"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What was the Civil Disobedience Movement?",
+      "answer": "It was a mass movement launched by Mahatma Gandhi to disobey unjust British laws peacefully."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why did Gandhiji start the Dandi March?",
+      "answer": "To protest against the British Salt Law which affected all Indians."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Dandi March?",
+      "answer": "It symbolized mass defiance of British authority and united people."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What was the Gandhi-Irwin Pact?",
+      "answer": "An agreement between Gandhiji and Viceroy Irwin to suspend the movement temporarily."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why was the Civil Disobedience Movement important?",
+      "answer": "It strengthened the national movement and spread the demand for independence."
+    }
+  ]
+}

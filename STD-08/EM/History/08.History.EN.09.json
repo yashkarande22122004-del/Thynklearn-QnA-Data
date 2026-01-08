@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.09",
+    "standard": "8",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Last Phase of Struggle of Independence"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which movement marked the final mass struggle against British rule?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Non-co-operation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Quit India Movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quit India Movement"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which year was the Quit India Movement launched?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1939",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1946",
+          "is_correct": false
+        }
+      ],
+      "answer": "1942"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who gave the slogan 'Do or Die'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which organization formed the Indian National Army (INA)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian National Congress",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forward Bloc",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Azad Hind Government",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British Indian Army",
+          "is_correct": false
+        }
+      ],
+      "answer": "Azad Hind Government"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who led the Indian National Army?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bhagat Singh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "C. Rajagopalachari",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was the aim of the Quit India Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dominion status",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Immediate independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Provincial autonomy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Immediate independence"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which event weakened British control after World War II?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "INA trials",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Simon Commission",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Round Table Conferences",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cripps Mission",
+          "is_correct": false
+        }
+      ],
+      "answer": "INA trials"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which naval revolt occurred in 1946?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Royal Indian Navy Mutiny",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sepoy Mutiny",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghadar Revolt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Kakori Conspiracy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Royal Indian Navy Mutiny"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which plan proposed the transfer of power in 1947?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cripps Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cabinet Mission Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mountbatten Plan",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wavell Plan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mountbatten Plan"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "India became independent in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1945",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1946",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1947",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "1947"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which movement marked the final mass struggle against British rule?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Non-co-operation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Quit India Movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quit India Movement"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "In which year was the Quit India Movement launched?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1939",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1946",
+          "is_correct": false
+        }
+      ],
+      "answer": "1942"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who gave the slogan 'Do or Die'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which organization formed the Indian National Army (INA)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian National Congress",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forward Bloc",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Azad Hind Government",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British Indian Army",
+          "is_correct": false
+        }
+      ],
+      "answer": "Azad Hind Government"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who led the Indian National Army?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bhagat Singh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "C. Rajagopalachari",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What was the aim of the Quit India Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dominion status",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Immediate independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Provincial autonomy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Immediate independence"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which event weakened British control after World War II?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "INA trials",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Simon Commission",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Round Table Conferences",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cripps Mission",
+          "is_correct": false
+        }
+      ],
+      "answer": "INA trials"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which naval revolt occurred in 1946?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Royal Indian Navy Mutiny",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sepoy Mutiny",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghadar Revolt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Kakori Conspiracy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Royal Indian Navy Mutiny"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which plan proposed the transfer of power in 1947?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cripps Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cabinet Mission Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mountbatten Plan",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wavell Plan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mountbatten Plan"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "India became independent in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1945",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1946",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1947",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "1947"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which movement marked the final mass struggle against British rule?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Non-co-operation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Quit India Movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quit India Movement"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In which year was the Quit India Movement launched?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1939",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1946",
+          "is_correct": false
+        }
+      ],
+      "answer": "1942"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who gave the slogan 'Do or Die'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which organization formed the Indian National Army (INA)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian National Congress",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forward Bloc",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Azad Hind Government",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British Indian Army",
+          "is_correct": false
+        }
+      ],
+      "answer": "Azad Hind Government"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who led the Indian National Army?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bhagat Singh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "C. Rajagopalachari",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What was the aim of the Quit India Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dominion status",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Immediate independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Provincial autonomy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Immediate independence"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which event weakened British control after World War II?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "INA trials",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Simon Commission",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Round Table Conferences",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cripps Mission",
+          "is_correct": false
+        }
+      ],
+      "answer": "INA trials"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which naval revolt occurred in 1946?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Royal Indian Navy Mutiny",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sepoy Mutiny",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghadar Revolt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Kakori Conspiracy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Royal Indian Navy Mutiny"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which plan proposed the transfer of power in 1947?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cripps Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cabinet Mission Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mountbatten Plan",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wavell Plan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mountbatten Plan"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "India became independent in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1945",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1946",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1947",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "1947"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which movement marked the final mass struggle against British rule?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Non-co-operation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Quit India Movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quit India Movement"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "In which year was the Quit India Movement launched?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1939",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1946",
+          "is_correct": false
+        }
+      ],
+      "answer": "1942"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who gave the slogan 'Do or Die'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which organization formed the Indian National Army (INA)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian National Congress",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forward Bloc",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Azad Hind Government",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British Indian Army",
+          "is_correct": false
+        }
+      ],
+      "answer": "Azad Hind Government"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who led the Indian National Army?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bhagat Singh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "C. Rajagopalachari",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was the aim of the Quit India Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dominion status",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Immediate independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Provincial autonomy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Immediate independence"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which event weakened British control after World War II?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "INA trials",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Simon Commission",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Round Table Conferences",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cripps Mission",
+          "is_correct": false
+        }
+      ],
+      "answer": "INA trials"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which naval revolt occurred in 1946?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Royal Indian Navy Mutiny",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sepoy Mutiny",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghadar Revolt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Kakori Conspiracy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Royal Indian Navy Mutiny"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which plan proposed the transfer of power in 1947?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cripps Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cabinet Mission Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mountbatten Plan",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wavell Plan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mountbatten Plan"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "India became independent in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1945",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1946",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1947",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "1947"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which movement marked the final mass struggle against British rule?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Non-co-operation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Quit India Movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quit India Movement"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "In which year was the Quit India Movement launched?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1935",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1939",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1942",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1946",
+          "is_correct": false
+        }
+      ],
+      "answer": "1942"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who gave the slogan 'Do or Die'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mahatma Gandhi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which organization formed the Indian National Army (INA)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian National Congress",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forward Bloc",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Azad Hind Government",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British Indian Army",
+          "is_correct": false
+        }
+      ],
+      "answer": "Azad Hind Government"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who led the Indian National Army?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bhagat Singh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subhas Chandra Bose",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "C. Rajagopalachari",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What was the aim of the Quit India Movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dominion status",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Immediate independence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Provincial autonomy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Immediate independence"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which event weakened British control after World War II?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "INA trials",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Simon Commission",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Round Table Conferences",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cripps Mission",
+          "is_correct": false
+        }
+      ],
+      "answer": "INA trials"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which naval revolt occurred in 1946?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Royal Indian Navy Mutiny",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sepoy Mutiny",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghadar Revolt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Kakori Conspiracy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Royal Indian Navy Mutiny"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which plan proposed the transfer of power in 1947?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cripps Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cabinet Mission Plan",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mountbatten Plan",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wavell Plan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mountbatten Plan"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "India became independent in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1945",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1946",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1947",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "1947"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What was the Quit India Movement?",
+      "answer": "It was a mass movement launched in 1942 demanding immediate independence from British rule."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the significance of the slogan 'Do or Die'?",
+      "answer": "It urged Indians to make a final effort for freedom, even at great sacrifice."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Who was Subhas Chandra Bose?",
+      "answer": "He was a nationalist leader who led the Indian National Army to fight British rule."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why were the INA trials important?",
+      "answer": "They aroused national feelings and weakened British authority."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "How did World War II affect the freedom struggle?",
+      "answer": "It weakened Britain economically and politically, accelerating independence."
+    }
+  ]
+}

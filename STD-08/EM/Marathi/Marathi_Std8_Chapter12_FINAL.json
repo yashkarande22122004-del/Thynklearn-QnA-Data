@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Marathi.12",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "सतवय आणि आपण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘सतवय आणि आपण’ हा पाठ कोणत्या साहित्यप्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निबंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "निबंध"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सतवय व मानवी जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "सतवय व मानवी जीवन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘सतवय’ या शब्दाचा अर्थ काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नैसर्गिक घटक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "यंत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैसर्गिक घटक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परस्परावलंबी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विरोधात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "परस्परावलंबी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सतवय जपण्याची गरज का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्यावरण संतुलनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण संतुलनासाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणती मूल्ये अधोरेखित होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जबाबदारी व संवेदनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "जबाबदारी व संवेदनशीलता"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्षाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जतनाची",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषणाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनतेची",
+          "is_correct": false
+        }
+      ],
+      "answer": "जतनाची"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पाठाचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्गावर विजय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सतवय जपणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपभोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "सतवय जपणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लेखकाची भाषा-शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व विचारप्रवर्तक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व विचारप्रवर्तक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हा पाठ विद्यार्थ्यांसाठी का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्यावरण जाणीव वाढवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाषा कठीण करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण जाणीव वाढवण्यासाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय परिणाम होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संतुलन बिघडते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फायदा होतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आनंद वाढतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "संतुलन बिघडते"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाठातील उदाहरणांचा उपयोग कशासाठी केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचार स्पष्ट करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वादासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचार स्पष्ट करण्यासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मानव-सतवय संबंधांचा परिणाम कशावर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त मानवावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्यावरणावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त सतवयावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कशावरही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरणावर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवेदनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सतवय जपण्यासाठी कोणती कृती आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संतुलन कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग संरक्षण"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "लेखक सतवयाबाबत कोणती भावना व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीव"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सतवय आणि मानव यांचे नाते कसे टिकू शकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोषणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहअस्तित्वाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्षाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेने",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहअस्तित्वाने"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सतवय जपण्यासाठी कोणती कृती आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संतुलन कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग संरक्षण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "लेखक सतवयाबाबत कोणती भावना व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीव"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सतवय आणि मानव यांचे नाते कसे टिकू शकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोषणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहअस्तित्वाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्षाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेने",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहअस्तित्वाने"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "सतवय जपण्यासाठी कोणती कृती आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संतुलन कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग संरक्षण"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "लेखक सतवयाबाबत कोणती भावना व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीव"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सतवय आणि मानव यांचे नाते कसे टिकू शकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोषणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहअस्तित्वाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्षाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेने",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहअस्तित्वाने"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सतवय जपण्यासाठी कोणती कृती आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संतुलन कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग संरक्षण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "लेखक सतवयाबाबत कोणती भावना व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीव"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सतवय आणि मानव यांचे नाते कसे टिकू शकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोषणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहअस्तित्वाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्षाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेने",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहअस्तित्वाने"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "सतवय जपण्यासाठी कोणती कृती आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संतुलन कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग संरक्षण"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "लेखक सतवयाबाबत कोणती भावना व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीव"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सतवय आणि मानव यांचे नाते कसे टिकू शकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोषणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहअस्तित्वाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्षाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेने",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहअस्तित्वाने"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "सतवय जपण्यासाठी कोणती कृती आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संतुलन कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग संरक्षण"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "लेखक सतवयाबाबत कोणती भावना व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीव"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "सतवय आणि मानव यांचे नाते कसे टिकू शकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोषणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहअस्तित्वाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्षाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेने",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहअस्तित्वाने"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सतवय जपण्यासाठी कोणती कृती आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पर्यावरण संतुलन कशामुळे टिकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग संरक्षण"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "लेखक सतवयाबाबत कोणती भावना व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीव"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "सतवय आणि मानव यांचे नाते कसे टिकू शकते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोषणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहअस्तित्वाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्षाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेने",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहअस्तित्वाने"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘सतवय आणि आपण’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "सतवय आणि मानव यांचे नाते व त्याचे जतन करण्याचे महत्त्व हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "सतवय म्हणजे काय?",
+      "answer": "पर्यावरणातील नैसर्गिक घटक आणि त्यांची व्यवस्था म्हणजे सतवय."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "मानव आणि सतवय यांचे नाते कसे आहे?",
+      "answer": "ते परस्परावलंबी असून एकमेकांवर अवलंबून आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "सतवय जपणे का आवश्यक आहे?",
+      "answer": "पर्यावरण संतुलन राखण्यासाठी सतवय जपणे आवश्यक आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "पर्यावरणाबद्दल जबाबदारीची जाणीव."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "सतवयाचा ऱ्हास झाल्यास काय होते?",
+      "answer": "नैसर्गिक संतुलन बिघडते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "मानवाने सतवयाबाबत कशी भूमिका घ्यावी?",
+      "answer": "जतन आणि संरक्षणाची भूमिका घ्यावी."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती आशय अधिक स्पष्ट आणि प्रभावी करतात."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत संवेदनशील शैली आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "पर्यावरण संरक्षणासाठी अत्यंत महत्त्वाचे आहे."
+    }
+  ]
+}

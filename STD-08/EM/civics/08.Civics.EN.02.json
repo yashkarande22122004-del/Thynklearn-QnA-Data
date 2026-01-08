@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.02",
+    "standard": "8",
+    "subject": "Civics",
+    "medium": "English",
+    "chapter_name": "The Indian Parliament"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The Indian Parliament is a ____ legislature.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unicameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bicameral",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tricameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Federal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bicameral"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which two Houses constitute the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha and Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha and Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lok Sabha and Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President and Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha and Rajya Sabha"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who is the head of the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chief Justice",
+          "is_correct": false
+        }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which House is known as the Lower House?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rajya Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lok Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Members of Lok Sabha are elected for a term of ____ years.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "answer": "5"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which House is a permanent body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who presides over the Lok Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chairman",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vice-President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who is the Chairman of the Rajya Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vice-President",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Speaker",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vice-President"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How many members can the Lok Sabha have at present (maximum)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "500",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "545",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "552",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "560",
+          "is_correct": false
+        }
+      ],
+      "answer": "545"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which House represents the States of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cabinet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Judiciary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The Indian Parliament is a ____ legislature.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unicameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bicameral",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tricameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Federal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bicameral"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which two Houses constitute the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha and Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha and Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lok Sabha and Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President and Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha and Rajya Sabha"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who is the head of the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chief Justice",
+          "is_correct": false
+        }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which House is known as the Lower House?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rajya Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lok Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Members of Lok Sabha are elected for a term of ____ years.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "answer": "5"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which House is a permanent body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who presides over the Lok Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chairman",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vice-President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who is the Chairman of the Rajya Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vice-President",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Speaker",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vice-President"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How many members can the Lok Sabha have at present (maximum)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "500",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "545",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "552",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "560",
+          "is_correct": false
+        }
+      ],
+      "answer": "545"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which House represents the States of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cabinet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Judiciary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The Indian Parliament is a ____ legislature.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unicameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bicameral",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tricameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Federal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bicameral"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which two Houses constitute the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha and Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha and Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lok Sabha and Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President and Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha and Rajya Sabha"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who is the head of the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chief Justice",
+          "is_correct": false
+        }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which House is known as the Lower House?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rajya Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lok Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Members of Lok Sabha are elected for a term of ____ years.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "answer": "5"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which House is a permanent body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who presides over the Lok Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chairman",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vice-President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who is the Chairman of the Rajya Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vice-President",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Speaker",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vice-President"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "How many members can the Lok Sabha have at present (maximum)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "500",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "545",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "552",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "560",
+          "is_correct": false
+        }
+      ],
+      "answer": "545"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which House represents the States of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cabinet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Judiciary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The Indian Parliament is a ____ legislature.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unicameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bicameral",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tricameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Federal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bicameral"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which two Houses constitute the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha and Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha and Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lok Sabha and Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President and Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha and Rajya Sabha"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who is the head of the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chief Justice",
+          "is_correct": false
+        }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which House is known as the Lower House?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rajya Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lok Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Members of Lok Sabha are elected for a term of ____ years.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "answer": "5"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which House is a permanent body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who presides over the Lok Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chairman",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vice-President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who is the Chairman of the Rajya Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vice-President",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Speaker",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vice-President"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "How many members can the Lok Sabha have at present (maximum)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "500",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "545",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "552",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "560",
+          "is_correct": false
+        }
+      ],
+      "answer": "545"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which House represents the States of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cabinet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Judiciary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "The Indian Parliament is a ____ legislature.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unicameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bicameral",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tricameral",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Federal",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bicameral"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which two Houses constitute the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha and Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha and Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lok Sabha and Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President and Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha and Rajya Sabha"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who is the head of the Indian Parliament?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Chief Justice",
+          "is_correct": false
+        }
+      ],
+      "answer": "President"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which House is known as the Lower House?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rajya Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lok Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Parishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lok Sabha"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Members of Lok Sabha are elected for a term of ____ years.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "7",
+          "is_correct": false
+        }
+      ],
+      "answer": "5"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which House is a permanent body?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidhan Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who presides over the Lok Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chairman",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Vice-President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "President",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaker"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who is the Chairman of the Rajya Sabha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "President",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Vice-President",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Speaker",
+          "is_correct": false
+        }
+      ],
+      "answer": "Vice-President"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "How many members can the Lok Sabha have at present (maximum)?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "500",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "545",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "552",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "560",
+          "is_correct": false
+        }
+      ],
+      "answer": "545"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which House represents the States of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lok Sabha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajya Sabha",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cabinet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Judiciary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is Parliament?",
+      "answer": "Parliament is the supreme legislative body of India."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Parliament bicameral?",
+      "answer": "It consists of two Houses to ensure representation of people and states."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What are the main functions of Parliament?",
+      "answer": "Lawmaking, controlling the executive and representing the people."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Who is the Speaker of Lok Sabha?",
+      "answer": "The Speaker is the presiding officer of the Lok Sabha."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is Rajya Sabha called a permanent House?",
+      "answer": "Because it is not dissolved and one-third members retire every two years."
+    }
+  ]
+}

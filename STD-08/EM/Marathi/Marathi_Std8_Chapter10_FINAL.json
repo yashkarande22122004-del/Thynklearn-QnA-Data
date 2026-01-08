@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.10",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "जठवन संचार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘जठवन संचार’ हा पाठ कोणत्या प्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहितीपर लेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहितीपर लेख"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पचनसंस्था व जठवन संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "पचनसंस्था व जठवन संचार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘जठर’ हा शब्द कशाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हृदय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पचनसंस्था",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मेंदू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "श्वसनसंस्था",
+          "is_correct": false
+        }
+      ],
+      "answer": "पचनसंस्था"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "जठवन संचार म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रक्ताभिसरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पचन प्रक्रियेत अन्नाची हालचाल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "श्वसन प्रक्रिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्नायूंची हालचाल",
+          "is_correct": false
+        }
+      ],
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "जठवन संचार का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा नष्ट करण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "योग्य पचनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "झोपेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "श्वसनासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "योग्य पचनासाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "या पाठात माहिती कशी मांडली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा स्वरूपात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या वैज्ञानिक भाषेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कवितेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादात",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या वैज्ञानिक भाषेत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पचन प्रक्रियेत कोणता अवयव महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फुप्फुसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जठर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मेंदू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हृदय",
+          "is_correct": false
+        }
+      ],
+      "answer": "जठर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणती जाणीव निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शरीरक्रियेची समज",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कंटाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "शरीरक्रियेची समज"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आरोग्यासाठी जठवन संचार कसा असावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरळीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अव्यवस्थित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थांबलेला",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरळीत"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य उद्देश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शैक्षणिक माहिती देणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक माहिती देणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पचनसंस्थेतील जठराचे मुख्य कार्य काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्वसन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अन्नाचे पचन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रक्तशुद्धी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा साठवण",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नाचे पचन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "जठवन संचार बिघडल्यास काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरोग्य सुधारते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपचन व त्रास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अधिक ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोप वाढते",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपचन व त्रास"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या पाठातील उदाहरणांचा उपयोग कशासाठी केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समज सुलभ करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वादासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "समज सुलभ करण्यासाठी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाठातील माहिती कोणत्या विषयाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शरीरशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "साहित्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "शरीरशास्त्र"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त डॉक्टरांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "योग्य पचनासाठी कोणती गोष्ट महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अव्यवस्थित आहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरळीत जठवन संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्प झोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरळीत जठवन संचार"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "जठवन संचाराचा शरीरावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा व आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा व आरोग्य"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहितीपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहितीपर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाठातील आशय कोणत्या दृष्टीने उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्यविषयक जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्यविषयक जाणीव"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "योग्य पचनासाठी कोणती गोष्ट महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अव्यवस्थित आहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरळीत जठवन संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्प झोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरळीत जठवन संचार"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "जठवन संचाराचा शरीरावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा व आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा व आरोग्य"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहितीपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहितीपर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पाठातील आशय कोणत्या दृष्टीने उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्यविषयक जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्यविषयक जाणीव"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "योग्य पचनासाठी कोणती गोष्ट महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अव्यवस्थित आहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरळीत जठवन संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्प झोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरळीत जठवन संचार"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "जठवन संचाराचा शरीरावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा व आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा व आरोग्य"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहितीपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहितीपर"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाठातील आशय कोणत्या दृष्टीने उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्यविषयक जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्यविषयक जाणीव"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "योग्य पचनासाठी कोणती गोष्ट महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अव्यवस्थित आहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरळीत जठवन संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्प झोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरळीत जठवन संचार"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "जठवन संचाराचा शरीरावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा व आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा व आरोग्य"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहितीपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहितीपर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पाठातील आशय कोणत्या दृष्टीने उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्यविषयक जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्यविषयक जाणीव"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "योग्य पचनासाठी कोणती गोष्ट महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अव्यवस्थित आहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरळीत जठवन संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्प झोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरळीत जठवन संचार"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "जठवन संचाराचा शरीरावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा व आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा व आरोग्य"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहितीपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहितीपर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पाठातील आशय कोणत्या दृष्टीने उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्यविषयक जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्यविषयक जाणीव"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "योग्य पचनासाठी कोणती गोष्ट महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अव्यवस्थित आहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरळीत जठवन संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्प झोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरळीत जठवन संचार"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "जठवन संचाराचा शरीरावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा व आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा व आरोग्य"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहितीपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहितीपर"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "पाठातील आशय कोणत्या दृष्टीने उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्यविषयक जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्यविषयक जाणीव"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "योग्य पचनासाठी कोणती गोष्ट महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अव्यवस्थित आहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरळीत जठवन संचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्प झोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरळीत जठवन संचार"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "जठवन संचाराचा शरीरावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा व आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा व आरोग्य"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "या पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहितीपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहितीपर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पाठातील आशय कोणत्या दृष्टीने उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्यविषयक जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्यविषयक जाणीव"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नसलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानीकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अधिक"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘जठवन संचार’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "पचनसंस्थेतील जठवन संचार आणि त्याचे महत्त्व समजावणे हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "जठवन संचार म्हणजे काय?",
+      "answer": "पचन प्रक्रियेत अन्नाची हालचाल म्हणजे जठवन संचार."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "जठराचे मुख्य कार्य कोणते आहे?",
+      "answer": "अन्नाचे पचन करणे हे जठराचे मुख्य कार्य आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "जठवन संचार बिघडल्यास काय होते?",
+      "answer": "अपचन, पोटदुखी आणि आरोग्य समस्या निर्माण होतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
+      "answer": "शरीरक्रियेबद्दल वैज्ञानिक माहिती मिळते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "योग्य पचनासाठी जठवन संचार का आवश्यक आहे?",
+      "answer": "तो पोषण आणि ऊर्जा मिळवण्यासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी उपयुक्त आहेत?",
+      "answer": "ती माहिती सोप्या पद्धतीने समजावतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "या पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या आणि माहितीपर शैलीत मांडलेली आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आरोग्याबाबत जागरूकता निर्माण करण्यासाठी महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पाठात अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "आरोग्याची काळजी घेणे."
+    }
+  ]
+}

@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.13",
+    "standard": "8",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Fulfillment of Struggle of Independence"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the fulfillment of the struggle of independence mainly refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Achievement of freedom and nation-building",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrial growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achievement of freedom and nation-building"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which event finally fulfilled the long freedom struggle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Quit India Movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Independence of India",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Formation of INC",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        }
+      ],
+      "answer": "Independence of India"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which body was responsible for framing the Constitution of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parliament",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constituent Assembly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Supreme Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Constituent Assembly"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who chaired the Drafting Committee of the Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When was the Constitution of India adopted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 November 1949",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 January 1950",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 November 1949"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the main objective of the Indian Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Centralization of power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Establish democracy and justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Colonial rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Establish democracy and justice"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which values are emphasized in the Preamble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, Equality, Fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trade and commerce",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Military power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Colonial unity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, Equality, Fraternity"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which system of government did India adopt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presidential",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Monarchical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parliamentary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dictatorial",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parliamentary"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "India became a republic on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 January 1950",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 November 1949",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Constituent Assembly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajendra Prasad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the fulfillment of the struggle of independence mainly refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Achievement of freedom and nation-building",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrial growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achievement of freedom and nation-building"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which event finally fulfilled the long freedom struggle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Quit India Movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Independence of India",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Formation of INC",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        }
+      ],
+      "answer": "Independence of India"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which body was responsible for framing the Constitution of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parliament",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constituent Assembly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Supreme Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Constituent Assembly"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who chaired the Drafting Committee of the Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "When was the Constitution of India adopted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 November 1949",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 January 1950",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 November 1949"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the main objective of the Indian Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Centralization of power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Establish democracy and justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Colonial rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Establish democracy and justice"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which values are emphasized in the Preamble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, Equality, Fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trade and commerce",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Military power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Colonial unity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, Equality, Fraternity"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which system of government did India adopt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presidential",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Monarchical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parliamentary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dictatorial",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parliamentary"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "India became a republic on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 January 1950",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 November 1949",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Constituent Assembly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajendra Prasad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the fulfillment of the struggle of independence mainly refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Achievement of freedom and nation-building",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrial growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achievement of freedom and nation-building"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which event finally fulfilled the long freedom struggle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Quit India Movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Independence of India",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Formation of INC",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        }
+      ],
+      "answer": "Independence of India"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which body was responsible for framing the Constitution of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parliament",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constituent Assembly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Supreme Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Constituent Assembly"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who chaired the Drafting Committee of the Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "When was the Constitution of India adopted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 November 1949",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 January 1950",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 November 1949"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the main objective of the Indian Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Centralization of power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Establish democracy and justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Colonial rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Establish democracy and justice"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which values are emphasized in the Preamble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, Equality, Fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trade and commerce",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Military power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Colonial unity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, Equality, Fraternity"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which system of government did India adopt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presidential",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Monarchical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parliamentary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dictatorial",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parliamentary"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "India became a republic on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 January 1950",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 November 1949",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Constituent Assembly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajendra Prasad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does the fulfillment of the struggle of independence mainly refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Achievement of freedom and nation-building",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrial growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achievement of freedom and nation-building"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which event finally fulfilled the long freedom struggle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Quit India Movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Independence of India",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Formation of INC",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        }
+      ],
+      "answer": "Independence of India"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which body was responsible for framing the Constitution of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parliament",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constituent Assembly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Supreme Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Constituent Assembly"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who chaired the Drafting Committee of the Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "When was the Constitution of India adopted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 November 1949",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 January 1950",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 November 1949"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What is the main objective of the Indian Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Centralization of power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Establish democracy and justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Colonial rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Establish democracy and justice"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which values are emphasized in the Preamble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, Equality, Fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trade and commerce",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Military power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Colonial unity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, Equality, Fraternity"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which system of government did India adopt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presidential",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Monarchical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parliamentary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dictatorial",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parliamentary"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "India became a republic on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 January 1950",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 November 1949",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Constituent Assembly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajendra Prasad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does the fulfillment of the struggle of independence mainly refer to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Economic reforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Achievement of freedom and nation-building",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign policy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrial growth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Achievement of freedom and nation-building"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which event finally fulfilled the long freedom struggle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Quit India Movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Independence of India",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Formation of INC",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Civil Disobedience",
+          "is_correct": false
+        }
+      ],
+      "answer": "Independence of India"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which body was responsible for framing the Constitution of India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parliament",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constituent Assembly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Supreme Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cabinet",
+          "is_correct": false
+        }
+      ],
+      "answer": "Constituent Assembly"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who chaired the Drafting Committee of the Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rajendra Prasad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "When was the Constitution of India adopted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 November 1949",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 January 1950",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 November 1949"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the main objective of the Indian Constitution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Centralization of power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Establish democracy and justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Colonial rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Establish democracy and justice"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which values are emphasized in the Preamble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Liberty, Equality, Fraternity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Trade and commerce",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Military power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Colonial unity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Liberty, Equality, Fraternity"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which system of government did India adopt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Presidential",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Monarchical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parliamentary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dictatorial",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parliamentary"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "India became a republic on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 August 1947",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "26 January 1950",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "26 November 1949",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2 October 1950",
+          "is_correct": false
+        }
+      ],
+      "answer": "26 January 1950"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Constituent Assembly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dr. B.R. Ambedkar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rajendra Prasad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jawaharlal Nehru",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sardar Patel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is meant by fulfillment of the struggle of independence?",
+      "answer": "It refers to achieving independence and establishing a democratic nation."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What was the role of the Constituent Assembly?",
+      "answer": "It framed the Constitution of independent India."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Who was Dr. B.R. Ambedkar?",
+      "answer": "He was the Chairman of the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the importance of the Indian Constitution?",
+      "answer": "It provides the framework for governance and protects citizens' rights."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is 26 January 1950 important?",
+      "answer": "On this day India became a republic and the Constitution came into force."
+    }
+  ]
+}

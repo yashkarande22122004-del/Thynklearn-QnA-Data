@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.03",
+    "standard": "8",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Pilgrim"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where was the pilgrim travelling?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Through a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Along a lone highway",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Across a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Near a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "Along a lone highway"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "At what time did the pilgrim reach the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Midnight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What kind of chasm did the pilgrim face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shallow and narrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Deep and wide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dry and small",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rocky and short",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deep and wide"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Did the chasm frighten the old man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Yes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "No",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sometimes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He hesitated",
+          "is_correct": false
+        }
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did the old man do after crossing the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rested",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Returned home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Built a bridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Called for help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Built a bridge"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who questioned the old man’s action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A traveller",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A fellow pilgrim",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A villager",
+          "is_correct": false
+        }
+      ],
+      "answer": "A fellow pilgrim"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why did the fellow pilgrim question him?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Journey was over",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bridge was broken",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He needed help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Journey was over"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "For whom was the bridge built?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For himself",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For villagers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For a fair-haired youth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "For animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For a fair-haired youth"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What could the chasm be for the youth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A shelter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A pitfall",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A road",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A rest place",
+          "is_correct": false
+        }
+      ],
+      "answer": "A pitfall"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does the pilgrim represent metaphorically?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A dutiful man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A careless man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fearful man",
+          "is_correct": false
+        }
+      ],
+      "answer": "A dutiful man"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where was the pilgrim travelling?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Through a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Along a lone highway",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Across a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Near a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "Along a lone highway"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "At what time did the pilgrim reach the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Midnight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What kind of chasm did the pilgrim face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shallow and narrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Deep and wide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dry and small",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rocky and short",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deep and wide"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Did the chasm frighten the old man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Yes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "No",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sometimes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He hesitated",
+          "is_correct": false
+        }
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did the old man do after crossing the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rested",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Returned home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Built a bridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Called for help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Built a bridge"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who questioned the old man’s action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A traveller",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A fellow pilgrim",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A villager",
+          "is_correct": false
+        }
+      ],
+      "answer": "A fellow pilgrim"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Why did the fellow pilgrim question him?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Journey was over",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bridge was broken",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He needed help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Journey was over"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "For whom was the bridge built?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For himself",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For villagers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For a fair-haired youth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "For animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For a fair-haired youth"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What could the chasm be for the youth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A shelter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A pitfall",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A road",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A rest place",
+          "is_correct": false
+        }
+      ],
+      "answer": "A pitfall"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does the pilgrim represent metaphorically?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A dutiful man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A careless man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fearful man",
+          "is_correct": false
+        }
+      ],
+      "answer": "A dutiful man"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where was the pilgrim travelling?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Through a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Along a lone highway",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Across a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Near a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "Along a lone highway"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "At what time did the pilgrim reach the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Midnight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What kind of chasm did the pilgrim face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shallow and narrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Deep and wide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dry and small",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rocky and short",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deep and wide"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Did the chasm frighten the old man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Yes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "No",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sometimes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He hesitated",
+          "is_correct": false
+        }
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What did the old man do after crossing the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rested",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Returned home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Built a bridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Called for help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Built a bridge"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who questioned the old man’s action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A traveller",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A fellow pilgrim",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A villager",
+          "is_correct": false
+        }
+      ],
+      "answer": "A fellow pilgrim"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Why did the fellow pilgrim question him?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Journey was over",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bridge was broken",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He needed help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Journey was over"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "For whom was the bridge built?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For himself",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For villagers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For a fair-haired youth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "For animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For a fair-haired youth"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What could the chasm be for the youth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A shelter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A pitfall",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A road",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A rest place",
+          "is_correct": false
+        }
+      ],
+      "answer": "A pitfall"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does the pilgrim represent metaphorically?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A dutiful man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A careless man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fearful man",
+          "is_correct": false
+        }
+      ],
+      "answer": "A dutiful man"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Where was the pilgrim travelling?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Through a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Along a lone highway",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Across a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Near a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "Along a lone highway"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "At what time did the pilgrim reach the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Midnight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What kind of chasm did the pilgrim face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shallow and narrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Deep and wide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dry and small",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rocky and short",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deep and wide"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Did the chasm frighten the old man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Yes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "No",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sometimes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He hesitated",
+          "is_correct": false
+        }
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What did the old man do after crossing the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rested",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Returned home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Built a bridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Called for help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Built a bridge"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who questioned the old man’s action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A traveller",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A fellow pilgrim",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A villager",
+          "is_correct": false
+        }
+      ],
+      "answer": "A fellow pilgrim"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Why did the fellow pilgrim question him?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Journey was over",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bridge was broken",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He needed help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Journey was over"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "For whom was the bridge built?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For himself",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For villagers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For a fair-haired youth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "For animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For a fair-haired youth"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What could the chasm be for the youth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A shelter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A pitfall",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A road",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A rest place",
+          "is_correct": false
+        }
+      ],
+      "answer": "A pitfall"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What does the pilgrim represent metaphorically?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A dutiful man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A careless man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fearful man",
+          "is_correct": false
+        }
+      ],
+      "answer": "A dutiful man"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Where was the pilgrim travelling?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Through a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Along a lone highway",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Across a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Near a village",
+          "is_correct": false
+        }
+      ],
+      "answer": "Along a lone highway"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "At what time did the pilgrim reach the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Noon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Evening",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Midnight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What kind of chasm did the pilgrim face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shallow and narrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Deep and wide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dry and small",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rocky and short",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deep and wide"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Did the chasm frighten the old man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Yes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "No",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sometimes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He hesitated",
+          "is_correct": false
+        }
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What did the old man do after crossing the chasm?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rested",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Returned home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Built a bridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Called for help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Built a bridge"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who questioned the old man’s action?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A traveller",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A fellow pilgrim",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A villager",
+          "is_correct": false
+        }
+      ],
+      "answer": "A fellow pilgrim"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Why did the fellow pilgrim question him?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Journey was over",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bridge was broken",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He needed help",
+          "is_correct": false
+        }
+      ],
+      "answer": "Journey was over"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "For whom was the bridge built?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For himself",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For villagers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For a fair-haired youth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "For animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For a fair-haired youth"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What could the chasm be for the youth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A shelter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A pitfall",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A road",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A rest place",
+          "is_correct": false
+        }
+      ],
+      "answer": "A pitfall"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What does the pilgrim represent metaphorically?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A rich man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A dutiful man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A careless man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fearful man",
+          "is_correct": false
+        }
+      ],
+      "answer": "A dutiful man"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Who is the pilgrim in the poem?",
+      "answer": "The pilgrim is an old man travelling alone on a highway."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What time of day does the poem describe?",
+      "answer": "The poem describes evening or twilight time."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why did the old man not fear the chasm?",
+      "answer": "He had enough experience to cross it safely."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What thoughtful act did the pilgrim perform?",
+      "answer": "He built a bridge after crossing the chasm."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why was the fellow pilgrim puzzled?",
+      "answer": "He felt the bridge was unnecessary for the old man."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What explanation did the old man give?",
+      "answer": "He built the bridge for a young pilgrim who would follow."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Who does the fair-haired youth represent?",
+      "answer": "The youth represents future generations."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What does the chasm symbolize?",
+      "answer": "It symbolizes danger or difficulties in life."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What does the bridge symbolize?",
+      "answer": "The bridge symbolizes helping others overcome problems."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What message does the poem convey?",
+      "answer": "We should help others even if we do not benefit personally."
+    }
+  ]
+}

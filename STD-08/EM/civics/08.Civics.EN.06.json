@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.06",
+    "standard": "8",
+    "subject": "Civics",
+    "medium": "English",
+    "chapter_name": "Bureaucracy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elected representatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Permanent administrative machinery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judicial system",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Local government",
+          "is_correct": false
+        }
+      ],
+      "answer": "Permanent administrative machinery"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Bureaucracy mainly helps which organ of government?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Legislature",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Executive",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Election Commission",
+          "is_correct": false
+        }
+      ],
+      "answer": "Executive"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Civil servants are appointed on the basis of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hereditary rights",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Merit and exams",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nomination",
+          "is_correct": false
+        }
+      ],
+      "answer": "Merit and exams"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which body conducts civil service examinations in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "SSC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "UPSC",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State PSC only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parliament",
+          "is_correct": false
+        }
+      ],
+      "answer": "UPSC"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which is a key feature of bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political neutrality",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Short tenure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Elected posts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Personal interest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Political neutrality"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the top bureaucrat at the district level?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Collector/District Magistrate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Governor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mayor",
+          "is_correct": false
+        }
+      ],
+      "answer": "Collector/District Magistrate"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Bureaucrats are expected to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Impartial",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Partisan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Impartial"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which service is part of All India Services?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Police Service (IPS)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Revenue Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State Civil Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Municipal Service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Police Service (IPS)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What ensures continuity in administration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bureaucracy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Political parties",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bureaucracy"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which value guides bureaucratic functioning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal gain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rule of law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Political loyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Profit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rule of law"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elected representatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Permanent administrative machinery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judicial system",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Local government",
+          "is_correct": false
+        }
+      ],
+      "answer": "Permanent administrative machinery"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Bureaucracy mainly helps which organ of government?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Legislature",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Executive",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Election Commission",
+          "is_correct": false
+        }
+      ],
+      "answer": "Executive"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Civil servants are appointed on the basis of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hereditary rights",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Merit and exams",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nomination",
+          "is_correct": false
+        }
+      ],
+      "answer": "Merit and exams"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which body conducts civil service examinations in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "SSC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "UPSC",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State PSC only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parliament",
+          "is_correct": false
+        }
+      ],
+      "answer": "UPSC"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which is a key feature of bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political neutrality",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Short tenure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Elected posts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Personal interest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Political neutrality"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who is the top bureaucrat at the district level?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Collector/District Magistrate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Governor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mayor",
+          "is_correct": false
+        }
+      ],
+      "answer": "Collector/District Magistrate"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Bureaucrats are expected to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Impartial",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Partisan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Impartial"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which service is part of All India Services?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Police Service (IPS)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Revenue Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State Civil Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Municipal Service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Police Service (IPS)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What ensures continuity in administration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bureaucracy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Political parties",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bureaucracy"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which value guides bureaucratic functioning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal gain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rule of law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Political loyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Profit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rule of law"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elected representatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Permanent administrative machinery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judicial system",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Local government",
+          "is_correct": false
+        }
+      ],
+      "answer": "Permanent administrative machinery"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Bureaucracy mainly helps which organ of government?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Legislature",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Executive",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Election Commission",
+          "is_correct": false
+        }
+      ],
+      "answer": "Executive"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Civil servants are appointed on the basis of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hereditary rights",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Merit and exams",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nomination",
+          "is_correct": false
+        }
+      ],
+      "answer": "Merit and exams"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which body conducts civil service examinations in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "SSC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "UPSC",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State PSC only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parliament",
+          "is_correct": false
+        }
+      ],
+      "answer": "UPSC"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which is a key feature of bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political neutrality",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Short tenure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Elected posts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Personal interest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Political neutrality"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who is the top bureaucrat at the district level?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Collector/District Magistrate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Governor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mayor",
+          "is_correct": false
+        }
+      ],
+      "answer": "Collector/District Magistrate"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Bureaucrats are expected to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Impartial",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Partisan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Impartial"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which service is part of All India Services?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Police Service (IPS)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Revenue Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State Civil Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Municipal Service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Police Service (IPS)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What ensures continuity in administration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bureaucracy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Political parties",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bureaucracy"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which value guides bureaucratic functioning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal gain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rule of law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Political loyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Profit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rule of law"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elected representatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Permanent administrative machinery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judicial system",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Local government",
+          "is_correct": false
+        }
+      ],
+      "answer": "Permanent administrative machinery"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Bureaucracy mainly helps which organ of government?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Legislature",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Executive",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Election Commission",
+          "is_correct": false
+        }
+      ],
+      "answer": "Executive"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Civil servants are appointed on the basis of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hereditary rights",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Merit and exams",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nomination",
+          "is_correct": false
+        }
+      ],
+      "answer": "Merit and exams"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which body conducts civil service examinations in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "SSC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "UPSC",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State PSC only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parliament",
+          "is_correct": false
+        }
+      ],
+      "answer": "UPSC"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which is a key feature of bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political neutrality",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Short tenure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Elected posts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Personal interest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Political neutrality"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who is the top bureaucrat at the district level?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Collector/District Magistrate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Governor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mayor",
+          "is_correct": false
+        }
+      ],
+      "answer": "Collector/District Magistrate"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Bureaucrats are expected to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Impartial",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Partisan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Impartial"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which service is part of All India Services?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Police Service (IPS)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Revenue Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State Civil Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Municipal Service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Police Service (IPS)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What ensures continuity in administration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bureaucracy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Political parties",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bureaucracy"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which value guides bureaucratic functioning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal gain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rule of law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Political loyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Profit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rule of law"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elected representatives",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Permanent administrative machinery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judicial system",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Local government",
+          "is_correct": false
+        }
+      ],
+      "answer": "Permanent administrative machinery"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Bureaucracy mainly helps which organ of government?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Legislature",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Executive",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Election Commission",
+          "is_correct": false
+        }
+      ],
+      "answer": "Executive"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Civil servants are appointed on the basis of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hereditary rights",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Merit and exams",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nomination",
+          "is_correct": false
+        }
+      ],
+      "answer": "Merit and exams"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which body conducts civil service examinations in India?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "SSC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "UPSC",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State PSC only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parliament",
+          "is_correct": false
+        }
+      ],
+      "answer": "UPSC"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which is a key feature of bureaucracy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political neutrality",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Short tenure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Elected posts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Personal interest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Political neutrality"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who is the top bureaucrat at the district level?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Collector/District Magistrate",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Governor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chief Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mayor",
+          "is_correct": false
+        }
+      ],
+      "answer": "Collector/District Magistrate"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Bureaucrats are expected to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Political",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Impartial",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Partisan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Impartial"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which service is part of All India Services?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Police Service (IPS)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Revenue Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State Civil Service",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Municipal Service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Police Service (IPS)"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What ensures continuity in administration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elections",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Judiciary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bureaucracy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Political parties",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bureaucracy"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which value guides bureaucratic functioning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal gain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rule of law",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Political loyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Profit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rule of law"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is meant by bureaucracy?",
+      "answer": "Bureaucracy is the permanent administrative machinery that runs government policies."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why is bureaucracy called permanent?",
+      "answer": "Because civil servants remain in service irrespective of changes in government."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is political neutrality?",
+      "answer": "It means bureaucrats serve the government without political bias."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Name two functions of bureaucracy.",
+      "answer": "Implementing policies and advising ministers."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is merit-based recruitment important?",
+      "answer": "It ensures efficiency, competence and fairness in administration."
+    }
+  ]
+}

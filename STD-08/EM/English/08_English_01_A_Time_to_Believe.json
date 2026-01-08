@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.01",
+    "standard": "8",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A Time to Believe"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does believing help us understand about every day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It is tiring",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It is ordinary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is a new beginning",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "It is fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "It is a new beginning"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What should one trust according to the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Failure happens",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Miracles happen",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "People deceive",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time stops",
+          "is_correct": false
+        }
+      ],
+      "answer": "Miracles happen"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do dreams do when we believe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disappear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Remain thoughts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come true",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Change slowly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come true"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What are angels described as doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Singing songs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flying low",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dancing among clouds",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sleeping quietly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dancing among clouds"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What kind of sky is mentioned in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cloudy sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stormy sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stardust sky",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dark sky",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stardust sky"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What quality does stardust represent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magic"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the man in the moon symbolize?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Loneliness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Darkness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silence",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What kind of heart is valued in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hard",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nurturing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cold",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nurturing"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What do a child’s eyes represent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cleverness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Innocence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Innocence"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is beautiful even when it grows old?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Voice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Smile",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hand"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What do we learn through these teachings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To argue",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To compete",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To love",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To win",
+          "is_correct": false
+        }
+      ],
+      "answer": "To love"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where does strength lie?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Outside us",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Within us",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Within us"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What quality is paired with strength?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Courage",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Courage"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "When should we pick up the pieces?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "After joy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "After rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "After a shock",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "After success",
+          "is_correct": false
+        }
+      ],
+      "answer": "After a shock"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does picking up the pieces mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Breaking things",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Giving up",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Returning to normal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Running away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Returning to normal"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What should we know about being alone?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "We are always alone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "We are never alone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "We choose loneliness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Loneliness is best",
+          "is_correct": false
+        }
+      ],
+      "answer": "We are never alone"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is life described as?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A race",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A burden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A gift",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A test",
+          "is_correct": false
+        }
+      ],
+      "answer": "A gift"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What should we do with life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignore it",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fear it",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cherish it",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Control it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cherish it"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What are waiting to happen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Punishments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wonderful surprises",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Failures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wonderful surprises"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Where are our hopes and dreams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lost forever",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Within reach",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Too far",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hidden",
+          "is_correct": false
+        }
+      ],
+      "answer": "Within reach"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does believing help us understand about every day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It is tiring",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It is ordinary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is a new beginning",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "It is fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "It is a new beginning"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What should one trust according to the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Failure happens",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Miracles happen",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "People deceive",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time stops",
+          "is_correct": false
+        }
+      ],
+      "answer": "Miracles happen"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What do dreams do when we believe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disappear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Remain thoughts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come true",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Change slowly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come true"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What are angels described as doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Singing songs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flying low",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dancing among clouds",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sleeping quietly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dancing among clouds"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What kind of sky is mentioned in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cloudy sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stormy sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stardust sky",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dark sky",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stardust sky"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What quality does stardust represent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magic"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does the man in the moon symbolize?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Loneliness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Darkness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silence",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What kind of heart is valued in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hard",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nurturing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cold",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nurturing"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What do a child’s eyes represent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cleverness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Innocence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Innocence"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is beautiful even when it grows old?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Voice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Smile",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hand"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What do we learn through these teachings?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To argue",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To compete",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To love",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To win",
+          "is_correct": false
+        }
+      ],
+      "answer": "To love"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Where does strength lie?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Outside us",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Within us",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Within us"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What quality is paired with strength?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Courage",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Courage"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "When should we pick up the pieces?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "After joy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "After rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "After a shock",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "After success",
+          "is_correct": false
+        }
+      ],
+      "answer": "After a shock"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does picking up the pieces mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Breaking things",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Giving up",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Returning to normal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Running away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Returning to normal"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What should we know about being alone?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "We are always alone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "We are never alone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "We choose loneliness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Loneliness is best",
+          "is_correct": false
+        }
+      ],
+      "answer": "We are never alone"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is life described as?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A race",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A burden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A gift",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A test",
+          "is_correct": false
+        }
+      ],
+      "answer": "A gift"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What should we do with life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignore it",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fear it",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cherish it",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Control it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cherish it"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What are waiting to happen?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Punishments",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wonderful surprises",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Failures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wonderful surprises"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Where are our hopes and dreams?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lost forever",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Within reach",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Too far",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hidden",
+          "is_correct": false
+        }
+      ],
+      "answer": "Within reach"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does believing help us understand about every day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It is tiring",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It is ordinary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is a new beginning",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "It is fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "It is a new beginning"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What should one trust according to the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Failure happens",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Miracles happen",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "People deceive",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time stops",
+          "is_correct": false
+        }
+      ],
+      "answer": "Miracles happen"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What do dreams do when we believe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disappear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Remain thoughts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Come true",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Change slowly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Come true"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What are angels described as doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Singing songs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flying low",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dancing among clouds",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sleeping quietly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dancing among clouds"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What kind of sky is mentioned in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cloudy sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stormy sky",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Stardust sky",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dark sky",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stardust sky"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What quality does stardust represent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magic"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What does the man in the moon symbolize?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Loneliness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Darkness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silence",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What kind of heart is valued in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hard",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nurturing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cold",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nurturing"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What do a child’s eyes represent?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cleverness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Innocence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Innocence"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is beautiful even when it grows old?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Voice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hand",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Smile",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hand"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does belief teach us about each day?",
+      "answer": "Belief teaches us that every day is a fresh beginning."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why should we trust miracles?",
+      "answer": "The poem says miracles happen when we truly believe."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What happens to dreams when we believe?",
+      "answer": "Dreams really come true when we have faith."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What image is used to show belief?",
+      "answer": "Angels dancing among the clouds are used as an image."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is the sky called stardust?",
+      "answer": "It has a magical and wonderful quality."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does the man in the moon represent?",
+      "answer": "He represents wisdom."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What kind of heart is valued?",
+      "answer": "A nurturing heart is valued."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What do a child’s eyes show?",
+      "answer": "They show innocence."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is an aging hand beautiful?",
+      "answer": "It has experience and teaches us love."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from elders?",
+      "answer": "We learn to love through their teachings."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Where does strength come from?",
+      "answer": "Strength lies within us."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is courage important?",
+      "answer": "It helps us begin again after difficulties."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does picking up the pieces mean?",
+      "answer": "It means returning to normal after a shock."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What should we know about loneliness?",
+      "answer": "We should know that we are never alone."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is life called a gift?",
+      "answer": "Life is precious and valuable."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What should we do with life?",
+      "answer": "We should cherish it."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What are wonderful surprises?",
+      "answer": "They are good things waiting to happen."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does within reach mean?",
+      "answer": "It means possible to achieve."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What qualities help after a shock?",
+      "answer": "Strength and courage help us recover."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What attitude does the poet advise?",
+      "answer": "The poet advises a positive and hopeful attitude."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does belief teach us about each day?",
+      "answer": "Belief teaches us that every day is a fresh beginning."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why should we trust miracles?",
+      "answer": "The poem says miracles happen when we truly believe."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What happens to dreams when we believe?",
+      "answer": "Dreams really come true when we have faith."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What image is used to show belief?",
+      "answer": "Angels dancing among the clouds are used as an image."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is the sky called stardust?",
+      "answer": "It has a magical and wonderful quality."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does the man in the moon represent?",
+      "answer": "He represents wisdom."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What kind of heart is valued?",
+      "answer": "A nurturing heart is valued."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What do a child’s eyes show?",
+      "answer": "They show innocence."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why is an aging hand beautiful?",
+      "answer": "It has experience and teaches us love."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from elders?",
+      "answer": "We learn to love through their teachings."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Where does strength come from?",
+      "answer": "Strength lies within us."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why is courage important?",
+      "answer": "It helps us begin again after difficulties."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What does picking up the pieces mean?",
+      "answer": "It means returning to normal after a shock."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What should we know about loneliness?",
+      "answer": "We should know that we are never alone."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is life called a gift?",
+      "answer": "Life is precious and valuable."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What should we do with life?",
+      "answer": "We should cherish it."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What are wonderful surprises?",
+      "answer": "They are good things waiting to happen."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What does within reach mean?",
+      "answer": "It means possible to achieve."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What qualities help after a shock?",
+      "answer": "Strength and courage help us recover."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What attitude does the poet advise?",
+      "answer": "The poet advises a positive and hopeful attitude."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What does belief teach us about each day?",
+      "answer": "Belief teaches us that every day is a fresh beginning."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why should we trust miracles?",
+      "answer": "The poem says miracles happen when we truly believe."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What happens to dreams when we believe?",
+      "answer": "Dreams really come true when we have faith."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What image is used to show belief?",
+      "answer": "Angels dancing among the clouds are used as an image."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is the sky called stardust?",
+      "answer": "It has a magical and wonderful quality."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does the man in the moon represent?",
+      "answer": "He represents wisdom."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What kind of heart is valued?",
+      "answer": "A nurturing heart is valued."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What do a child’s eyes show?",
+      "answer": "They show innocence."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is an aging hand beautiful?",
+      "answer": "It has experience and teaches us love."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from elders?",
+      "answer": "We learn to love through their teachings."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Where does strength come from?",
+      "answer": "Strength lies within us."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why is courage important?",
+      "answer": "It helps us begin again after difficulties."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What does picking up the pieces mean?",
+      "answer": "It means returning to normal after a shock."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What should we know about loneliness?",
+      "answer": "We should know that we are never alone."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is life called a gift?",
+      "answer": "Life is precious and valuable."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What should we do with life?",
+      "answer": "We should cherish it."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What are wonderful surprises?",
+      "answer": "They are good things waiting to happen."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What does within reach mean?",
+      "answer": "It means possible to achieve."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What qualities help after a shock?",
+      "answer": "Strength and courage help us recover."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What attitude does the poet advise?",
+      "answer": "The poet advises a positive and hopeful attitude."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What does belief teach us about each day?",
+      "answer": "Belief teaches us that every day is a fresh beginning."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why should we trust miracles?",
+      "answer": "The poem says miracles happen when we truly believe."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What happens to dreams when we believe?",
+      "answer": "Dreams really come true when we have faith."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What image is used to show belief?",
+      "answer": "Angels dancing among the clouds are used as an image."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is the sky called stardust?",
+      "answer": "It has a magical and wonderful quality."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What does the man in the moon represent?",
+      "answer": "He represents wisdom."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What kind of heart is valued?",
+      "answer": "A nurturing heart is valued."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What do a child’s eyes show?",
+      "answer": "They show innocence."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is an aging hand beautiful?",
+      "answer": "It has experience and teaches us love."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What do we learn from elders?",
+      "answer": "We learn to love through their teachings."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Where does strength come from?",
+      "answer": "Strength lies within us."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why is courage important?",
+      "answer": "It helps us begin again after difficulties."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What does picking up the pieces mean?",
+      "answer": "It means returning to normal after a shock."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What should we know about loneliness?",
+      "answer": "We should know that we are never alone."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why is life called a gift?",
+      "answer": "Life is precious and valuable."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What should we do with life?",
+      "answer": "We should cherish it."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What are wonderful surprises?",
+      "answer": "They are good things waiting to happen."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What does within reach mean?",
+      "answer": "It means possible to achieve."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What qualities help after a shock?",
+      "answer": "Strength and courage help us recover."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What attitude does the poet advise?",
+      "answer": "The poet advises a positive and hopeful attitude."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What does belief teach us about each day?",
+      "answer": "Belief teaches us that every day is a fresh beginning."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why should we trust miracles?",
+      "answer": "The poem says miracles happen when we truly believe."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What happens to dreams when we believe?",
+      "answer": "Dreams really come true when we have faith."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What image is used to show belief?",
+      "answer": "Angels dancing among the clouds are used as an image."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why is the sky called stardust?",
+      "answer": "It has a magical and wonderful quality."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What does the man in the moon represent?",
+      "answer": "He represents wisdom."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What kind of heart is valued?",
+      "answer": "A nurturing heart is valued."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What do a child’s eyes show?",
+      "answer": "They show innocence."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is an aging hand beautiful?",
+      "answer": "It has experience and teaches us love."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What do we learn from elders?",
+      "answer": "We learn to love through their teachings."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Where does strength come from?",
+      "answer": "Strength lies within us."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why is courage important?",
+      "answer": "It helps us begin again after difficulties."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What does picking up the pieces mean?",
+      "answer": "It means returning to normal after a shock."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What should we know about loneliness?",
+      "answer": "We should know that we are never alone."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why is life called a gift?",
+      "answer": "Life is precious and valuable."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What should we do with life?",
+      "answer": "We should cherish it."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What are wonderful surprises?",
+      "answer": "They are good things waiting to happen."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What does within reach mean?",
+      "answer": "It means possible to achieve."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What qualities help after a shock?",
+      "answer": "Strength and courage help us recover."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What attitude does the poet advise?",
+      "answer": "The poet advises a positive and hopeful attitude."
+    }
+  ]
+}

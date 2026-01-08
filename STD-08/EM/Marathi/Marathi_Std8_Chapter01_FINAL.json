@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.01",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "भारत अमुचा देश"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ ही रचना कोणत्या साहित्यप्रकारात मोडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कवितेत व्यक्त झालेली मुख्य भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशप्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशप्रेम"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘अमुचा’ या शब्दाचा योग्य अर्थ कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माझा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्यांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपला"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताची ओळख कशी मांडली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लहान देश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गरीब देश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विविधतेतील एकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "एकसारखा देश",
+          "is_correct": false
+        }
+      ],
+      "answer": "विविधतेतील एकता"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवी भारताबद्दल अभिमान का व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्येमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संस्कृती व परंपरेमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "युद्धशक्तीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्तीमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृती व परंपरेमुळे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताची संस्कृती कशी वर्णन केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गौरवपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "गौरवपूर्ण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचल्यावर वाचकाच्या मनात काय भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाभिमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दु:ख",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाभिमान"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परदेशप्रेम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशावर प्रेम करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वतःपुरते जगा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशावर प्रेम करा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या मूल्यांवर भर दिला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकता व देशप्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकता व देशप्रेम"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ही कविता विद्यार्थ्यांसाठी का महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय जाणीव निर्माण करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास शिकवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाषा कठीण करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय जाणीव निर्माण करण्यासाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारताच्या कोणत्या वैशिष्ट्याचा कवितेत विशेष उल्लेख आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संस्कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खनिजे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उद्योग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृती"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवी भारताला ‘अमुचा’ म्हणताना काय सूचित करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वामित्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेतील भावना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या कवितेतून कोणती सामाजिक भावना प्रकट होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विभाजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकात्मता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकात्मता"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवितेची भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गंभीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व भावपूर्ण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवी भारताला कशामुळे महान मानतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकारामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परंपरा व मूल्यांमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सत्तेमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसंख्येमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "परंपरा व मूल्यांमुळे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवितेतील आशय कोणत्या विचाराशी जोडलेला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भौतिक सुख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय अभिमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यक्तिगत यश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय अभिमान"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "या कवितेचा उपयोग विद्यार्थ्यांच्या व्यक्तिमत्त्व विकासासाठी कसा होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण वाढवतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशप्रेम वाढवतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती निर्माण करतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता आणतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशप्रेम वाढवतो"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी राहते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमकुवत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गौरवशाली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निराशाजनक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "गौरवशाली"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या मूल्यांचा पुरस्कार करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय एकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भोगवाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय एकता"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवितेत व्यक्त झालेली देशभक्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांत व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व भावपूर्ण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय विद्यार्थ्यांमध्ये काय निर्माण करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाविषयी आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाविषयी आदर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना जागृत करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय भावना जागृत करणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेत व्यक्त झालेली देशभक्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांत व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व भावपूर्ण"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय विद्यार्थ्यांमध्ये काय निर्माण करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाविषयी आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाविषयी आदर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना जागृत करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय भावना जागृत करणे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कवितेत व्यक्त झालेली देशभक्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांत व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व भावपूर्ण"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय विद्यार्थ्यांमध्ये काय निर्माण करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाविषयी आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाविषयी आदर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना जागृत करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय भावना जागृत करणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कवितेत व्यक्त झालेली देशभक्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांत व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व भावपूर्ण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय विद्यार्थ्यांमध्ये काय निर्माण करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाविषयी आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाविषयी आदर"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना जागृत करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय भावना जागृत करणे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कवितेत व्यक्त झालेली देशभक्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांत व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व भावपूर्ण"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय विद्यार्थ्यांमध्ये काय निर्माण करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाविषयी आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाविषयी आदर"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना जागृत करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय भावना जागृत करणे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "कवितेत व्यक्त झालेली देशभक्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांत व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व भावपूर्ण"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय विद्यार्थ्यांमध्ये काय निर्माण करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाविषयी आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाविषयी आदर"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना जागृत करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय भावना जागृत करणे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कवितेत व्यक्त झालेली देशभक्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांत व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व भावपूर्ण"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय विद्यार्थ्यांमध्ये काय निर्माण करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाविषयी आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाविषयी आदर"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रीय भावना जागृत करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रीय भावना जागृत करणे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कवितेत व्यक्त झालेली देशभक्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांत व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व भावपूर्ण"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "‘भारत अमुचा देश’ या शीर्षकातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपलेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दूरत्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपलेपणा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘भारत अमुचा देश’ या कवितेचा मुख्य भाव स्पष्ट करा.",
+      "answer": "या कवितेचा मुख्य भाव देशप्रेम आणि राष्ट्रीय अभिमान हा आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "कवी भारताला ‘अमुचा’ का म्हणतो?",
+      "answer": "भारत सर्व भारतीयांचा आहे ही आपलेपणाची भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताच्या कोणत्या वैशिष्ट्यांचा उल्लेख आहे?",
+      "answer": "संस्कृती, परंपरा आणि विविधतेतील एकता यांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "देशावर प्रेम करावे आणि देशाचा सन्मान करावा असा संदेश देते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा-शैलीची वैशिष्ट्ये लिहा.",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली राष्ट्रीय भावना स्पष्ट करा.",
+      "answer": "कवितेत देशाविषयी अभिमान आणि आपुलकीची भावना दिसते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "या कवितेचे शैक्षणिक महत्त्व काय आहे?",
+      "answer": "विद्यार्थ्यांमध्ये राष्ट्रीय जाणीव निर्माण करण्यास मदत होते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची प्रतिमा कशी उभी केली आहे?",
+      "answer": "भारत एक गौरवशाली आणि मूल्याधारित राष्ट्र म्हणून उभा केला आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आजही देशप्रेम आणि एकतेची गरज असल्यामुळे हा आशय महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये अधोरेखित केली आहेत?",
+      "answer": "देशप्रेम, एकता आणि सांस्कृतिक अभिमान."
+    }
+  ]
+}

@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.08",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Industries"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is an industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Agricultural activity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic activity producing goods and services",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Transport service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic activity producing goods and services"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which industry extracts raw materials from nature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Manufacturing industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Service industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Primary industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secondary industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Primary industry"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Cotton textile industry is a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which factor is most important for location of industries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raw materials",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Capital",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Iron and steel industry is known as a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cottage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small-scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Basic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Agro-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Basic"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which industry depends on agricultural raw materials?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mineral-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agro-based",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Marine-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forest-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Agro-based"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is a large-scale industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Handloom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pottery",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron and steel",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carpentry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron and steel"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which sector provides services like banking and transport?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which industry uses forest produce as raw material?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton textile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Paper industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Automobile industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paper industry"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Industrialization leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unemployment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic development",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Population decrease",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isolation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic development"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is an industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Agricultural activity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic activity producing goods and services",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Transport service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic activity producing goods and services"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which industry extracts raw materials from nature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Manufacturing industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Service industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Primary industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secondary industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Primary industry"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Cotton textile industry is a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which factor is most important for location of industries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raw materials",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Capital",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Iron and steel industry is known as a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cottage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small-scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Basic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Agro-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Basic"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which industry depends on agricultural raw materials?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mineral-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agro-based",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Marine-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forest-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Agro-based"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which is a large-scale industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Handloom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pottery",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron and steel",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carpentry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron and steel"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which sector provides services like banking and transport?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which industry uses forest produce as raw material?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton textile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Paper industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Automobile industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paper industry"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Industrialization leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unemployment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic development",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Population decrease",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isolation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic development"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is an industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Agricultural activity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic activity producing goods and services",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Transport service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic activity producing goods and services"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which industry extracts raw materials from nature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Manufacturing industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Service industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Primary industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secondary industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Primary industry"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Cotton textile industry is a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which factor is most important for location of industries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raw materials",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Capital",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Iron and steel industry is known as a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cottage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small-scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Basic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Agro-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Basic"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which industry depends on agricultural raw materials?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mineral-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agro-based",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Marine-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forest-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Agro-based"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which is a large-scale industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Handloom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pottery",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron and steel",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carpentry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron and steel"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which sector provides services like banking and transport?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which industry uses forest produce as raw material?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton textile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Paper industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Automobile industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paper industry"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Industrialization leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unemployment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic development",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Population decrease",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isolation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic development"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is an industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Agricultural activity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic activity producing goods and services",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Transport service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic activity producing goods and services"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which industry extracts raw materials from nature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Manufacturing industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Service industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Primary industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secondary industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Primary industry"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Cotton textile industry is a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which factor is most important for location of industries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raw materials",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Capital",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Iron and steel industry is known as a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cottage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small-scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Basic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Agro-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Basic"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which industry depends on agricultural raw materials?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mineral-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agro-based",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Marine-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forest-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Agro-based"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which is a large-scale industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Handloom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pottery",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron and steel",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carpentry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron and steel"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which sector provides services like banking and transport?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which industry uses forest produce as raw material?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton textile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Paper industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Automobile industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paper industry"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Industrialization leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unemployment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic development",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Population decrease",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isolation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic development"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is an industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Agricultural activity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic activity producing goods and services",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Transport service",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic activity producing goods and services"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which industry extracts raw materials from nature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Manufacturing industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Service industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Primary industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Secondary industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Primary industry"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Cotton textile industry is a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Secondary"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which factor is most important for location of industries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raw materials",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Capital",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Iron and steel industry is known as a ____ industry.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cottage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Small-scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Basic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Agro-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Basic"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which industry depends on agricultural raw materials?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mineral-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agro-based",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Marine-based",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forest-based",
+          "is_correct": false
+        }
+      ],
+      "answer": "Agro-based"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which is a large-scale industry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Handloom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pottery",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iron and steel",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carpentry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron and steel"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which sector provides services like banking and transport?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tertiary"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which industry uses forest produce as raw material?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton textile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Paper industry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Automobile industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Paper industry"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Industrialization leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unemployment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Economic development",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Population decrease",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isolation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Economic development"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is an industry?",
+      "answer": "Industry is an economic activity concerned with production of goods and services."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Name the main types of industries.",
+      "answer": "Primary, secondary and tertiary industries are the main types."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What are agro-based industries?",
+      "answer": "Industries that use agricultural raw materials are called agro-based industries."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Why is iron and steel called a basic industry?",
+      "answer": "Because it provides raw material to many other industries."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What are the factors affecting location of industries?",
+      "answer": "Raw materials, power, labour, capital, transport and market."
+    }
+  ]
+}

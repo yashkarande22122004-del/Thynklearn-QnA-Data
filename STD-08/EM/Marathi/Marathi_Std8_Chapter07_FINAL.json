@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.07",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "धैर्य परतिचं धाडस"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘धैर्य परतिचं धाडस’ हा पाठ कोणत्या साहित्यप्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ललित लेख/कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "ललित लेख/कथा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्य, धाडस व आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्य, धाडस व आत्मविश्वास"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘धैर्य’ या शब्दाचा अर्थ काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिम्मत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संशय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिम्मत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाठात धाडस कशाशी जोडले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारपूर्वक निर्णय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतरांवर अवलंबित्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारपूर्वक निर्णय"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "लेखक कोणत्या गुणावर भर देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कठीण प्रसंगी कोणती वृत्ती आवश्यक सांगितली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्य राखणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तक्रार करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पलायन",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्य राखणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पाठातील प्रसंगांचा हेतू काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणा देणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तुलना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा देणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणती मूल्ये दिसून येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्य व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अहंकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्य व चिकाटी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लेखकाची भाषा-शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी व सोपी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी व सोपी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "या पाठाचा संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धोका टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्याने पुढे जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतरांवर अवलंबून रहा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हार मानणे योग्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्याने पुढे जा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "धैर्य आणि धाडस यांचा संबंध कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूरक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विरोधात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूरक"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाठातील नायकाची वृत्ती कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संशयी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्यवान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्यवान"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "धैर्य कशामुळे वाढते असे सूचित केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीतीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुभवाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळसाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेषाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभवाने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या पाठातून वाचकाला काय प्रेरणा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थांबा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संकटांना सामोरे जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तक्रार करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जोखीम टाळा",
+          "is_correct": false
+        }
+      ],
+      "answer": "संकटांना सामोरे जा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाठातील उदाहरणे कशासाठी वापरली आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचार स्पष्ट करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचार स्पष्ट करण्यासाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पाठाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारप्रवर्तक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारप्रवर्तक"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "धाडसाचा अर्थ पाठात कसा मांडला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीवपूर्वक कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीवपूर्वक कृती"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "या पाठाचा उपयोग विद्यार्थ्यांसाठी कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनापुरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्य वाढवणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळ वाढवणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्प",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्य वाढवणारा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाठातील आशय कोणत्या जीवनघटनेशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन संघर्ष",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्सव",
+          "is_correct": false
+        }
+      ],
+      "answer": "दैनंदिन संघर्ष"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणते मूल्य अधोरेखित झाले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्य"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "धैर्याशिवाय धाडसाचे परिणाम कसे होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशस्वी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोपे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "धोकादायक"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाठातील संदेश आजच्या काळात का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अडचणी नसल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आव्हाने वाढल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परंपरेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आव्हाने वाढल्यामुळे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "लेखक कोणत्या भावनेला महत्त्व देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "धैर्य म्हणजे काय असे पाठातून समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती असूनही कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तक्रार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीती असूनही कृती"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "धैर्याशिवाय धाडसाचे परिणाम कसे होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशस्वी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोपे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "धोकादायक"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पाठातील संदेश आजच्या काळात का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अडचणी नसल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आव्हाने वाढल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परंपरेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आव्हाने वाढल्यामुळे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "लेखक कोणत्या भावनेला महत्त्व देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "धैर्य म्हणजे काय असे पाठातून समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती असूनही कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तक्रार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीती असूनही कृती"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "धैर्याशिवाय धाडसाचे परिणाम कसे होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशस्वी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोपे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "धोकादायक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पाठातील संदेश आजच्या काळात का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अडचणी नसल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आव्हाने वाढल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परंपरेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आव्हाने वाढल्यामुळे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "लेखक कोणत्या भावनेला महत्त्व देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "धैर्य म्हणजे काय असे पाठातून समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती असूनही कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तक्रार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीती असूनही कृती"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "धैर्याशिवाय धाडसाचे परिणाम कसे होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशस्वी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोपे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "धोकादायक"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पाठातील संदेश आजच्या काळात का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अडचणी नसल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आव्हाने वाढल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परंपरेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आव्हाने वाढल्यामुळे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "लेखक कोणत्या भावनेला महत्त्व देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "धैर्य म्हणजे काय असे पाठातून समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती असूनही कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तक्रार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीती असूनही कृती"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "धैर्याशिवाय धाडसाचे परिणाम कसे होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशस्वी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोपे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "धोकादायक"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "पाठातील संदेश आजच्या काळात का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अडचणी नसल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आव्हाने वाढल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परंपरेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आव्हाने वाढल्यामुळे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "लेखक कोणत्या भावनेला महत्त्व देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "धैर्य म्हणजे काय असे पाठातून समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती असूनही कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तक्रार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीती असूनही कृती"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "धैर्याशिवाय धाडसाचे परिणाम कसे होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशस्वी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोपे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निश्चित",
+          "is_correct": false
+        }
+      ],
+      "answer": "धोकादायक"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "पाठातील संदेश आजच्या काळात का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अडचणी नसल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आव्हाने वाढल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परंपरेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आव्हाने वाढल्यामुळे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "लेखक कोणत्या भावनेला महत्त्व देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "धैर्य म्हणजे काय असे पाठातून समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती असूनही कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तक्रार",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीती असूनही कृती"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘धैर्य परतिचं धाडस’ या पाठाचा मुख्य आशय काय आहे?",
+      "answer": "धैर्य ठेवून विचारपूर्वक धाडस केल्यास यश मिळते हा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "धैर्य म्हणजे काय?",
+      "answer": "भीती असूनही योग्य कृती करण्याची मानसिक ताकद म्हणजे धैर्य."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "धाडस आणि धैर्य यांचा संबंध स्पष्ट करा.",
+      "answer": "धैर्यामुळे धाडस योग्य दिशेने जाते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "संकटांशी धैर्याने सामना करण्याची शिकवण."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "पाठातील नायकाची वैशिष्ट्ये लिहा.",
+      "answer": "तो धैर्यवान, आत्मविश्वासी आणि ठाम आहे."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "धैर्याशिवाय धाडस का धोकादायक ठरते?",
+      "answer": "कारण ते अविचाराने केल्यास अपयश येऊ शकते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "पाठातील उदाहरणे कशी प्रेरणादायी आहेत?",
+      "answer": "ती वास्तवातील संघर्ष दाखवून प्रेरणा देतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "पाठाची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रेरणादायी शैली आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "आजच्या काळात या पाठाचे महत्त्व काय आहे?",
+      "answer": "आव्हानांच्या काळात धैर्य आवश्यक आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "पाठातून अधोरेखित झालेले मुख्य मूल्य कोणते?",
+      "answer": "धैर्य आणि आत्मविश्वास."
+    }
+  ]
+}

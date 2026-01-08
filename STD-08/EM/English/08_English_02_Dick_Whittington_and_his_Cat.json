@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.02",
+    "standard": "8",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Dick Whittington and his Cat"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where did Dick Whittington live originally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A village in south England",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Barbary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Holloway",
+          "is_correct": false
+        }
+      ],
+      "answer": "A village in south England"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What made Dick go to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Search for work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hearing streets were paved with gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Meeting a merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear of villagers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hearing streets were paved with gold"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who gave Dick a lift to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A sailor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A carter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A cook",
+          "is_correct": false
+        }
+      ],
+      "answer": "A carter"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep on his first night in London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An inn",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An alley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A ship",
+          "is_correct": false
+        }
+      ],
+      "answer": "An alley"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who helped Dick get work?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The cook",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mr Fitzwarren",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The carter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mr Fitzwarren"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What work was Dick given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sailing ships",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping in the kitchen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Selling goods",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping in the kitchen"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep at Mr Fitzwarren’s house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Attic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Garden",
+          "is_correct": false
+        }
+      ],
+      "answer": "Attic"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What troubled Dick at night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rats and mice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dreams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rats and mice"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How did Dick solve the rat problem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Traps",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Poison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Buying a cat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Running away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Buying a cat"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who treated Dick badly at the house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mr Fitzwarren",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The cook",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "The cook"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where did Dick Whittington live originally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A village in south England",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Barbary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Holloway",
+          "is_correct": false
+        }
+      ],
+      "answer": "A village in south England"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What made Dick go to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Search for work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hearing streets were paved with gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Meeting a merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear of villagers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hearing streets were paved with gold"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who gave Dick a lift to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A sailor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A carter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A cook",
+          "is_correct": false
+        }
+      ],
+      "answer": "A carter"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep on his first night in London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An inn",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An alley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A ship",
+          "is_correct": false
+        }
+      ],
+      "answer": "An alley"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who helped Dick get work?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The cook",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mr Fitzwarren",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The carter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mr Fitzwarren"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What work was Dick given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sailing ships",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping in the kitchen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Selling goods",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping in the kitchen"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep at Mr Fitzwarren’s house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Attic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Garden",
+          "is_correct": false
+        }
+      ],
+      "answer": "Attic"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What troubled Dick at night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rats and mice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dreams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rats and mice"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How did Dick solve the rat problem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Traps",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Poison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Buying a cat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Running away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Buying a cat"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who treated Dick badly at the house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mr Fitzwarren",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The cook",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "The cook"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where did Dick Whittington live originally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A village in south England",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Barbary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Holloway",
+          "is_correct": false
+        }
+      ],
+      "answer": "A village in south England"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What made Dick go to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Search for work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hearing streets were paved with gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Meeting a merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear of villagers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hearing streets were paved with gold"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who gave Dick a lift to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A sailor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A carter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A cook",
+          "is_correct": false
+        }
+      ],
+      "answer": "A carter"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep on his first night in London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An inn",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An alley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A ship",
+          "is_correct": false
+        }
+      ],
+      "answer": "An alley"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who helped Dick get work?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The cook",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mr Fitzwarren",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The carter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mr Fitzwarren"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What work was Dick given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sailing ships",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping in the kitchen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Selling goods",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping in the kitchen"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep at Mr Fitzwarren’s house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Attic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Garden",
+          "is_correct": false
+        }
+      ],
+      "answer": "Attic"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What troubled Dick at night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rats and mice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dreams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rats and mice"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "How did Dick solve the rat problem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Traps",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Poison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Buying a cat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Running away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Buying a cat"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who treated Dick badly at the house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mr Fitzwarren",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The cook",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "The cook"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Where did Dick Whittington live originally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A village in south England",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Barbary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Holloway",
+          "is_correct": false
+        }
+      ],
+      "answer": "A village in south England"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What made Dick go to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Search for work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hearing streets were paved with gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Meeting a merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear of villagers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hearing streets were paved with gold"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who gave Dick a lift to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A sailor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A carter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A cook",
+          "is_correct": false
+        }
+      ],
+      "answer": "A carter"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep on his first night in London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An inn",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An alley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A ship",
+          "is_correct": false
+        }
+      ],
+      "answer": "An alley"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who helped Dick get work?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The cook",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mr Fitzwarren",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The carter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mr Fitzwarren"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What work was Dick given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sailing ships",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping in the kitchen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Selling goods",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping in the kitchen"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep at Mr Fitzwarren’s house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Attic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Garden",
+          "is_correct": false
+        }
+      ],
+      "answer": "Attic"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What troubled Dick at night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rats and mice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dreams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rats and mice"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "How did Dick solve the rat problem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Traps",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Poison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Buying a cat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Running away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Buying a cat"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who treated Dick badly at the house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mr Fitzwarren",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The cook",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "The cook"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Where did Dick Whittington live originally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "London",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A village in south England",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Barbary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Holloway",
+          "is_correct": false
+        }
+      ],
+      "answer": "A village in south England"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What made Dick go to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Search for work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hearing streets were paved with gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Meeting a merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear of villagers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hearing streets were paved with gold"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who gave Dick a lift to London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A merchant",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A sailor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A carter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A cook",
+          "is_correct": false
+        }
+      ],
+      "answer": "A carter"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep on his first night in London?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "An inn",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A house",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "An alley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A ship",
+          "is_correct": false
+        }
+      ],
+      "answer": "An alley"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who helped Dick get work?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The cook",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mr Fitzwarren",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The carter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mr Fitzwarren"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What work was Dick given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sailing ships",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cooking food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping in the kitchen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Selling goods",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping in the kitchen"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Where did Dick sleep at Mr Fitzwarren’s house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Attic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Garden",
+          "is_correct": false
+        }
+      ],
+      "answer": "Attic"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What troubled Dick at night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rats and mice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dreams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rats and mice"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "How did Dick solve the rat problem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Traps",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Poison",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Buying a cat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Running away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Buying a cat"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who treated Dick badly at the house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mr Fitzwarren",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The cook",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The captain",
+          "is_correct": false
+        }
+      ],
+      "answer": "The cook"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why was Dick unhappy in his village?",
+      "answer": "He had no parents and was treated unkindly by villagers."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What innocent belief did Dick have about London?",
+      "answer": "He believed the streets of London were paved with gold."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why was Dick disappointed on reaching London?",
+      "answer": "He saw dirty streets and unfriendly people instead of gold."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How did Mr Fitzwarren help Dick?",
+      "answer": "He gave Dick food, shelter, and work."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What was Dick’s first difficulty at the house?",
+      "answer": "The attic was full of rats and mice."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How did the cat help Dick?",
+      "answer": "The cat chased away all the rats and mice."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What was Dick’s second difficulty?",
+      "answer": "The cook’s bad temper."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why did Dick decide to leave the house?",
+      "answer": "He could not tolerate the cook’s scoldings."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What made Dick return back?",
+      "answer": "The church bells inspired him."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What message did the bells seem to give?",
+      "answer": "They told him to turn again and become Lord Mayor."
+    }
+  ]
+}

@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.06",
+    "standard": "8",
+    "subject": "History",
+    "medium": "English",
+    "chapter_name": "Beginning of Freedom Movement"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which factor helped in the rise of Indian nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "English education",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "British army",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrialization only",
+          "is_correct": false
+        }
+      ],
+      "answer": "English education"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which organization was founded in 1885 to lead the national movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Muslim League",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian National Congress",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Arya Samaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule League",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian National Congress"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadabhai Naoroji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "W.C. Banerjee",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gopal Krishna Gokhale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A.O. Hume",
+          "is_correct": false
+        }
+      ],
+      "answer": "W.C. Banerjee"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who played a key role in the establishment of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A.O. Hume",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tilak",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which language became a common link among Indians?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hindi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marathi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "English",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Persian",
+          "is_correct": false
+        }
+      ],
+      "answer": "English"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What policy did the British use to weaken nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divide and Rule",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doctrine of Lapse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subsidiary Alliance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Divide and Rule"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which newspaper was started by Lokmanya Tilak?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kesari",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Amrit Bazar Patrika",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The Hindu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Times of India",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kesari"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who were known as Moderate leaders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tilak, Lajpat Rai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gokhale, Dadabhai Naoroji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bhagat Singh, Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gandhi, Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gokhale, Dadabhai Naoroji"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The extremist leaders believed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Petitions",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constitutional methods",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mass agitation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British support",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mass agitation"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Partition of Bengal took place in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1905",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1915",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1885",
+          "is_correct": false
+        }
+      ],
+      "answer": "1905"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which factor helped in the rise of Indian nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "English education",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "British army",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrialization only",
+          "is_correct": false
+        }
+      ],
+      "answer": "English education"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which organization was founded in 1885 to lead the national movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Muslim League",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian National Congress",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Arya Samaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule League",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian National Congress"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadabhai Naoroji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "W.C. Banerjee",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gopal Krishna Gokhale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A.O. Hume",
+          "is_correct": false
+        }
+      ],
+      "answer": "W.C. Banerjee"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who played a key role in the establishment of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A.O. Hume",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tilak",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which language became a common link among Indians?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hindi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marathi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "English",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Persian",
+          "is_correct": false
+        }
+      ],
+      "answer": "English"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What policy did the British use to weaken nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divide and Rule",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doctrine of Lapse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subsidiary Alliance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Divide and Rule"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which newspaper was started by Lokmanya Tilak?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kesari",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Amrit Bazar Patrika",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The Hindu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Times of India",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kesari"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who were known as Moderate leaders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tilak, Lajpat Rai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gokhale, Dadabhai Naoroji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bhagat Singh, Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gandhi, Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gokhale, Dadabhai Naoroji"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The extremist leaders believed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Petitions",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constitutional methods",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mass agitation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British support",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mass agitation"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Partition of Bengal took place in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1905",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1915",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1885",
+          "is_correct": false
+        }
+      ],
+      "answer": "1905"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which factor helped in the rise of Indian nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "English education",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "British army",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrialization only",
+          "is_correct": false
+        }
+      ],
+      "answer": "English education"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which organization was founded in 1885 to lead the national movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Muslim League",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian National Congress",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Arya Samaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule League",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian National Congress"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadabhai Naoroji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "W.C. Banerjee",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gopal Krishna Gokhale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A.O. Hume",
+          "is_correct": false
+        }
+      ],
+      "answer": "W.C. Banerjee"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who played a key role in the establishment of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A.O. Hume",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tilak",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which language became a common link among Indians?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hindi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marathi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "English",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Persian",
+          "is_correct": false
+        }
+      ],
+      "answer": "English"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What policy did the British use to weaken nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divide and Rule",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doctrine of Lapse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subsidiary Alliance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Divide and Rule"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which newspaper was started by Lokmanya Tilak?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kesari",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Amrit Bazar Patrika",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The Hindu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Times of India",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kesari"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who were known as Moderate leaders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tilak, Lajpat Rai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gokhale, Dadabhai Naoroji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bhagat Singh, Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gandhi, Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gokhale, Dadabhai Naoroji"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The extremist leaders believed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Petitions",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constitutional methods",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mass agitation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British support",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mass agitation"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Partition of Bengal took place in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1905",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1915",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1885",
+          "is_correct": false
+        }
+      ],
+      "answer": "1905"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which factor helped in the rise of Indian nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "English education",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "British army",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrialization only",
+          "is_correct": false
+        }
+      ],
+      "answer": "English education"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which organization was founded in 1885 to lead the national movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Muslim League",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian National Congress",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Arya Samaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule League",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian National Congress"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadabhai Naoroji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "W.C. Banerjee",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gopal Krishna Gokhale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A.O. Hume",
+          "is_correct": false
+        }
+      ],
+      "answer": "W.C. Banerjee"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who played a key role in the establishment of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A.O. Hume",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tilak",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which language became a common link among Indians?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hindi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marathi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "English",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Persian",
+          "is_correct": false
+        }
+      ],
+      "answer": "English"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What policy did the British use to weaken nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divide and Rule",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doctrine of Lapse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subsidiary Alliance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Divide and Rule"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which newspaper was started by Lokmanya Tilak?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kesari",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Amrit Bazar Patrika",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The Hindu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Times of India",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kesari"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who were known as Moderate leaders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tilak, Lajpat Rai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gokhale, Dadabhai Naoroji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bhagat Singh, Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gandhi, Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gokhale, Dadabhai Naoroji"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The extremist leaders believed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Petitions",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constitutional methods",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mass agitation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British support",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mass agitation"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Partition of Bengal took place in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1905",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1915",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1885",
+          "is_correct": false
+        }
+      ],
+      "answer": "1905"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which factor helped in the rise of Indian nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "English education",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "British army",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industrialization only",
+          "is_correct": false
+        }
+      ],
+      "answer": "English education"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which organization was founded in 1885 to lead the national movement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Muslim League",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Indian National Congress",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Arya Samaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Home Rule League",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian National Congress"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who was the first President of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadabhai Naoroji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "W.C. Banerjee",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gopal Krishna Gokhale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A.O. Hume",
+          "is_correct": false
+        }
+      ],
+      "answer": "W.C. Banerjee"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who played a key role in the establishment of the Indian National Congress?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mahatma Gandhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A.O. Hume",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tilak",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "A.O. Hume"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which language became a common link among Indians?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hindi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marathi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "English",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Persian",
+          "is_correct": false
+        }
+      ],
+      "answer": "English"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What policy did the British use to weaken nationalism?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divide and Rule",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Doctrine of Lapse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subsidiary Alliance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Economic reforms",
+          "is_correct": false
+        }
+      ],
+      "answer": "Divide and Rule"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which newspaper was started by Lokmanya Tilak?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kesari",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Amrit Bazar Patrika",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The Hindu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Times of India",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kesari"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who were known as Moderate leaders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tilak, Lajpat Rai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gokhale, Dadabhai Naoroji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bhagat Singh, Bose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gandhi, Nehru",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gokhale, Dadabhai Naoroji"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The extremist leaders believed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Petitions",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Constitutional methods",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mass agitation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "British support",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mass agitation"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Partition of Bengal took place in which year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1905",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1915",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1920",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1885",
+          "is_correct": false
+        }
+      ],
+      "answer": "1905"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is nationalism?",
+      "answer": "Nationalism is a feeling of unity and love for one’s country."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why did English education help nationalism?",
+      "answer": "It introduced ideas of liberty, equality and democracy."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Who founded the Indian National Congress?",
+      "answer": "The Indian National Congress was founded by A.O. Hume in 1885."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Who were Moderates?",
+      "answer": "Moderates were leaders who believed in constitutional and peaceful methods."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What was the importance of the Partition of Bengal?",
+      "answer": "It led to widespread national awakening and protest."
+    }
+  ]
+}

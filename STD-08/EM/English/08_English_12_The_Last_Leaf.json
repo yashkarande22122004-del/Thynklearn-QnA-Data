@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.12",
+    "standard": "8",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Last Leaf"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where did Sue and Johnsy live?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a city colony of artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In a hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a hostel",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a city colony of artists"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What profession did Sue and Johnsy follow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Artists"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What illness did Johnsy suffer from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tuberculosis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pneumonia",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fever",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malaria",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pneumonia"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did the doctor say Johnsy needed most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medicine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Will to live",
+          "is_correct": true
+        }
+      ],
+      "answer": "Will to live"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was Johnsy counting while looking outside?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raindrops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ivy leaves",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Birds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ivy leaves"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What belief did Johnsy have about the leaves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They bring luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They show seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her life depended on them",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They never fall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her life depended on them"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who was Behrman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artist",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A writer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A neighbour",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artist"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What dream did Behrman always talk about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Buying a house",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Painting a masterpiece",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travelling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Earning money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting a masterpiece"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did Behrman paint on the wall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A branch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The last ivy leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "The last ivy leaf"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What happened to Behrman after painting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He recovered",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He left the city",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He fell ill and died",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He became famous",
+          "is_correct": false
+        }
+      ],
+      "answer": "He fell ill and died"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where did Sue and Johnsy live?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a city colony of artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In a hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a hostel",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a city colony of artists"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What profession did Sue and Johnsy follow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Artists"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What illness did Johnsy suffer from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tuberculosis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pneumonia",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fever",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malaria",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pneumonia"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What did the doctor say Johnsy needed most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medicine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Will to live",
+          "is_correct": true
+        }
+      ],
+      "answer": "Will to live"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What was Johnsy counting while looking outside?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raindrops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ivy leaves",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Birds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ivy leaves"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What belief did Johnsy have about the leaves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They bring luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They show seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her life depended on them",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They never fall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her life depended on them"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who was Behrman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artist",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A writer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A neighbour",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artist"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What dream did Behrman always talk about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Buying a house",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Painting a masterpiece",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travelling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Earning money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting a masterpiece"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What did Behrman paint on the wall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A branch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The last ivy leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "The last ivy leaf"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What happened to Behrman after painting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He recovered",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He left the city",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He fell ill and died",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He became famous",
+          "is_correct": false
+        }
+      ],
+      "answer": "He fell ill and died"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where did Sue and Johnsy live?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a city colony of artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In a hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a hostel",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a city colony of artists"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What profession did Sue and Johnsy follow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Artists"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What illness did Johnsy suffer from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tuberculosis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pneumonia",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fever",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malaria",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pneumonia"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What did the doctor say Johnsy needed most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medicine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Will to live",
+          "is_correct": true
+        }
+      ],
+      "answer": "Will to live"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What was Johnsy counting while looking outside?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raindrops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ivy leaves",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Birds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ivy leaves"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What belief did Johnsy have about the leaves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They bring luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They show seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her life depended on them",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They never fall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her life depended on them"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who was Behrman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artist",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A writer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A neighbour",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artist"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What dream did Behrman always talk about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Buying a house",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Painting a masterpiece",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travelling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Earning money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting a masterpiece"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What did Behrman paint on the wall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A branch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The last ivy leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "The last ivy leaf"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What happened to Behrman after painting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He recovered",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He left the city",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He fell ill and died",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He became famous",
+          "is_correct": false
+        }
+      ],
+      "answer": "He fell ill and died"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Where did Sue and Johnsy live?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a city colony of artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In a hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a hostel",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a city colony of artists"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What profession did Sue and Johnsy follow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Artists"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What illness did Johnsy suffer from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tuberculosis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pneumonia",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fever",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malaria",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pneumonia"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What did the doctor say Johnsy needed most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medicine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Will to live",
+          "is_correct": true
+        }
+      ],
+      "answer": "Will to live"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What was Johnsy counting while looking outside?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raindrops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ivy leaves",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Birds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ivy leaves"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What belief did Johnsy have about the leaves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They bring luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They show seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her life depended on them",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They never fall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her life depended on them"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who was Behrman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artist",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A writer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A neighbour",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artist"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What dream did Behrman always talk about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Buying a house",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Painting a masterpiece",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travelling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Earning money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting a masterpiece"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What did Behrman paint on the wall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A branch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The last ivy leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "The last ivy leaf"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What happened to Behrman after painting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He recovered",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He left the city",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He fell ill and died",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He became famous",
+          "is_correct": false
+        }
+      ],
+      "answer": "He fell ill and died"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Where did Sue and Johnsy live?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a city colony of artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In a hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a hostel",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a city colony of artists"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What profession did Sue and Johnsy follow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctors",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Artists",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Artists"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What illness did Johnsy suffer from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tuberculosis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pneumonia",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fever",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malaria",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pneumonia"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What did the doctor say Johnsy needed most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medicine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Will to live",
+          "is_correct": true
+        }
+      ],
+      "answer": "Will to live"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What was Johnsy counting while looking outside?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raindrops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ivy leaves",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Birds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ivy leaves"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What belief did Johnsy have about the leaves?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They bring luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They show seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Her life depended on them",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They never fall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Her life depended on them"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who was Behrman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An artist",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A writer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A neighbour",
+          "is_correct": false
+        }
+      ],
+      "answer": "An artist"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What dream did Behrman always talk about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Buying a house",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Painting a masterpiece",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travelling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Earning money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting a masterpiece"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What did Behrman paint on the wall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A branch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The last ivy leaf",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A tree",
+          "is_correct": false
+        }
+      ],
+      "answer": "The last ivy leaf"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What happened to Behrman after painting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He recovered",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He left the city",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He fell ill and died",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He became famous",
+          "is_correct": false
+        }
+      ],
+      "answer": "He fell ill and died"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why did Sue take special care of Johnsy?",
+      "answer": "Because Johnsy was seriously ill with pneumonia."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What made Johnsy lose hope of living?",
+      "answer": "Her belief that she would die when the last leaf fell."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "How did Sue try to help Johnsy recover?",
+      "answer": "She encouraged her and took good care of her."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why did Sue call Behrman to their flat?",
+      "answer": "To pose as a model for her painting."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What kind of artist was Behrman?",
+      "answer": "He was a failure who dreamed of painting a masterpiece."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What was Johnsy’s false belief?",
+      "answer": "She believed her life was linked to the ivy leaves."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Why did the last leaf not fall?",
+      "answer": "Because Behrman had painted it on the wall."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How did the last leaf affect Johnsy?",
+      "answer": "It restored her hope and will to live."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What sacrifice did Behrman make?",
+      "answer": "He sacrificed his life to save Johnsy."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What message does the story convey?",
+      "answer": "Hope, friendship, and selfless sacrifice can save lives."
+    }
+  ]
+}

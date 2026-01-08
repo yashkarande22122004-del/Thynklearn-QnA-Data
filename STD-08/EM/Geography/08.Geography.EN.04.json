@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.04",
+    "standard": "8",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Structure of the Ocean Floor"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the shallowest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental shelf"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor lies beyond the continental shelf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the deepest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Abyssal plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": true
+        }
+      ],
+      "answer": "Ocean trench"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which feature is formed due to volcanic activity on the ocean floor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mid-ocean ridge"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the continental shelf mainly used for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Navigation only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fishing and oil extraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military use",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fishing and oil extraction"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is flat and deep?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abyssal plain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ridge",
+          "is_correct": false
+        }
+      ],
+      "answer": "Abyssal plain"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which ocean trench is the deepest in the world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Java Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mariana Trench",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Puerto Rico Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peru-Chile Trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mariana Trench"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Mid-ocean ridges are found ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Along continents",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In the middle of oceans",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Near coastlines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "At poles",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the middle of oceans"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which feature separates the continental shelf and abyssal plain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Island",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Ocean trenches are formed due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deposition",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Erosion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subduction of plates",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sedimentation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subduction of plates"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the shallowest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental shelf"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor lies beyond the continental shelf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the deepest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Abyssal plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": true
+        }
+      ],
+      "answer": "Ocean trench"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which feature is formed due to volcanic activity on the ocean floor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mid-ocean ridge"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the continental shelf mainly used for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Navigation only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fishing and oil extraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military use",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fishing and oil extraction"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is flat and deep?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abyssal plain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ridge",
+          "is_correct": false
+        }
+      ],
+      "answer": "Abyssal plain"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which ocean trench is the deepest in the world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Java Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mariana Trench",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Puerto Rico Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peru-Chile Trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mariana Trench"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Mid-ocean ridges are found ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Along continents",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In the middle of oceans",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Near coastlines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "At poles",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the middle of oceans"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which feature separates the continental shelf and abyssal plain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Island",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Ocean trenches are formed due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deposition",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Erosion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subduction of plates",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sedimentation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subduction of plates"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the shallowest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental shelf"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor lies beyond the continental shelf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the deepest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Abyssal plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": true
+        }
+      ],
+      "answer": "Ocean trench"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which feature is formed due to volcanic activity on the ocean floor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mid-ocean ridge"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the continental shelf mainly used for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Navigation only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fishing and oil extraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military use",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fishing and oil extraction"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is flat and deep?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abyssal plain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ridge",
+          "is_correct": false
+        }
+      ],
+      "answer": "Abyssal plain"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which ocean trench is the deepest in the world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Java Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mariana Trench",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Puerto Rico Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peru-Chile Trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mariana Trench"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Mid-ocean ridges are found ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Along continents",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In the middle of oceans",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Near coastlines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "At poles",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the middle of oceans"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which feature separates the continental shelf and abyssal plain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Island",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Ocean trenches are formed due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deposition",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Erosion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subduction of plates",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sedimentation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subduction of plates"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the shallowest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental shelf"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor lies beyond the continental shelf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the deepest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Abyssal plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": true
+        }
+      ],
+      "answer": "Ocean trench"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which feature is formed due to volcanic activity on the ocean floor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mid-ocean ridge"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is the continental shelf mainly used for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Navigation only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fishing and oil extraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military use",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fishing and oil extraction"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is flat and deep?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abyssal plain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ridge",
+          "is_correct": false
+        }
+      ],
+      "answer": "Abyssal plain"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which ocean trench is the deepest in the world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Java Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mariana Trench",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Puerto Rico Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peru-Chile Trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mariana Trench"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Mid-ocean ridges are found ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Along continents",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In the middle of oceans",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Near coastlines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "At poles",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the middle of oceans"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which feature separates the continental shelf and abyssal plain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Island",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Ocean trenches are formed due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deposition",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Erosion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subduction of plates",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sedimentation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subduction of plates"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the shallowest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental shelf"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor lies beyond the continental shelf?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is the deepest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Abyssal plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean trench",
+          "is_correct": true
+        }
+      ],
+      "answer": "Ocean trench"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which feature is formed due to volcanic activity on the ocean floor?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continental shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mid-ocean ridge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abyssal plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mid-ocean ridge"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is the continental shelf mainly used for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Navigation only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fishing and oil extraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Deep sea mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Military use",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fishing and oil extraction"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which part of the ocean floor is flat and deep?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shelf",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Abyssal plain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ridge",
+          "is_correct": false
+        }
+      ],
+      "answer": "Abyssal plain"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which ocean trench is the deepest in the world?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Java Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mariana Trench",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Puerto Rico Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peru-Chile Trench",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mariana Trench"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Mid-ocean ridges are found ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Along continents",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In the middle of oceans",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Near coastlines",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "At poles",
+          "is_correct": false
+        }
+      ],
+      "answer": "In the middle of oceans"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which feature separates the continental shelf and abyssal plain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mid-ocean ridge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Continental slope",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trench",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Island",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continental slope"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Ocean trenches are formed due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deposition",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Erosion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Subduction of plates",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sedimentation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subduction of plates"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the continental shelf?",
+      "answer": "The continental shelf is the shallow, gently sloping part of the ocean floor near continents."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the continental slope?",
+      "answer": "The continental slope is the steep slope that descends from the shelf to the deep ocean floor."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is an abyssal plain?",
+      "answer": "An abyssal plain is a flat, deep part of the ocean floor."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What are mid-ocean ridges?",
+      "answer": "Mid-ocean ridges are long underwater mountain chains formed by volcanic activity."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why are continental shelves important?",
+      "answer": "They are important for fishing, oil and natural gas resources."
+    }
+  ]
+}

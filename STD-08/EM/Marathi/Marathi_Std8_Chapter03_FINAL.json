@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.03",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "गण–बजण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘गण–बजण’ हा पाठ कोणत्या साहित्यप्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ललित लेख",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवाज व गोंगाट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवाज व गोंगाट"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘गण–बजण’ या शब्दातून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांतता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोलाहल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "एकांत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गंभीरता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोलाहल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैसर्गिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवनिर्मित",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कुठलाही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवी आवाजांबाबत कोणती भावना व्यक्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्रास व विचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपेक्षा",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रास व विचार"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "या कवितेत गोंगाटाचा परिणाम कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्रासदायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौरवपूर्ण",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रासदायक"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेत शांततेचे महत्त्व का अधोरेखित केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानसिक स्वास्थ्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानसिक स्वास्थ्यासाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेतील आशय कोणत्या जीवनघटनेशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्सव",
+          "is_correct": false
+        }
+      ],
+      "answer": "दैनंदिन जीवन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचल्यावर वाचकाला काय जाणवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कंटाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारशीलता"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंगाट वाढवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांततेचे महत्त्व ओळखा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आवाज टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांततेचे महत्त्व ओळखा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवितेत गोंगाट कशामुळे निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्गामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी क्रियांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्हीमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोणामुळेही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्हीमुळे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवी गोंगाटाकडे कशा दृष्टीने पाहतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गौरवाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "टीकेने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थपणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "टीकेने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या कवितेतील भावना कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हलक्या-फुलक्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारप्रवर्तक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आक्रमक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारप्रवर्तक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेची भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व प्रभावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गंभीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व प्रभावी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गोंगाटामुळे कोणती समस्या निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानसिक अस्वस्थता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आरोग्य सुधारणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आनंद",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानसिक अस्वस्थता"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेत शांतता कशाशी जोडली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कंटाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मन:शांती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "मन:शांती"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "या कवितेचा उपयोग विद्यार्थ्यांसाठी कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनापुरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचार करण्यास प्रवृत्त करणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळ वाढवणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्प",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचार करण्यास प्रवृत्त करणारा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवितेतील आशय आजच्या काळात का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंगाट कमी असल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोंगाट वाढत असल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परंपरेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "गोंगाट वाढत असल्यामुळे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणते मूल्य अधोरेखित झाले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांततेचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांततेचे महत्त्व"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या प्रकारची जाणीव निर्माण करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राष्ट्रीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सामाजिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऐतिहासिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामाजिक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "गोंगाट आणि शांतता यातील विरोध कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पष्टपणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अस्पष्टपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौरवाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पष्टपणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कवितेतील आवाजांचा उल्लेख कशासाठी केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिस्थिती दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिस्थिती दाखवण्यासाठी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय वाचकाला काय करायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंगाट वाढवायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांततेचा विचार करायला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करायला",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांततेचा विचार करायला"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "या कवितेची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारशील"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त लेखकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "गोंगाट आणि शांतता यातील विरोध कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पष्टपणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अस्पष्टपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौरवाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पष्टपणे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेतील आवाजांचा उल्लेख कशासाठी केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिस्थिती दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिस्थिती दाखवण्यासाठी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय वाचकाला काय करायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंगाट वाढवायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांततेचा विचार करायला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करायला",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांततेचा विचार करायला"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "या कवितेची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारशील"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त लेखकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "गोंगाट आणि शांतता यातील विरोध कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पष्टपणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अस्पष्टपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौरवाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पष्टपणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कवितेतील आवाजांचा उल्लेख कशासाठी केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिस्थिती दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिस्थिती दाखवण्यासाठी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय वाचकाला काय करायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंगाट वाढवायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांततेचा विचार करायला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करायला",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांततेचा विचार करायला"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "या कवितेची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारशील"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त लेखकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "गोंगाट आणि शांतता यातील विरोध कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पष्टपणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अस्पष्टपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौरवाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पष्टपणे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कवितेतील आवाजांचा उल्लेख कशासाठी केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिस्थिती दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिस्थिती दाखवण्यासाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय वाचकाला काय करायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंगाट वाढवायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांततेचा विचार करायला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करायला",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांततेचा विचार करायला"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "या कवितेची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारशील"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त लेखकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "गोंगाट आणि शांतता यातील विरोध कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पष्टपणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अस्पष्टपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौरवाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पष्टपणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कवितेतील आवाजांचा उल्लेख कशासाठी केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिस्थिती दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिस्थिती दाखवण्यासाठी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय वाचकाला काय करायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंगाट वाढवायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांततेचा विचार करायला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करायला",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांततेचा विचार करायला"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "या कवितेची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारशील"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त लेखकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "गोंगाट आणि शांतता यातील विरोध कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पष्टपणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अस्पष्टपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौरवाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पष्टपणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कवितेतील आवाजांचा उल्लेख कशासाठी केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिस्थिती दाखवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुलनेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिस्थिती दाखवण्यासाठी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय वाचकाला काय करायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंगाट वाढवायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शांततेचा विचार करायला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करायला",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांततेचा विचार करायला"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "या कवितेची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारशील"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणासाठी अधिक उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त प्रौढांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लहान मुलांसाठी नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त लेखकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या कवितेचा मुख्य आशय काय आहे?",
+      "answer": "दैनंदिन जीवनातील गोंगाट आणि शांततेचे महत्त्व स्पष्ट करणे हा आशय आहे."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "‘गण–बजण’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "गण–बजण म्हणजे सतत ऐकू येणारा गोंगाट."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "कवी गोंगाटाबद्दल कोणती भूमिका मांडतो?",
+      "answer": "गोंगाट त्रासदायक असून शांतता आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारच्या आवाजांचा उल्लेख आहे?",
+      "answer": "नैसर्गिक आणि मानवनिर्मित अशा दोन्ही आवाजांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "गोंगाटाचा मानवी मनावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे मानसिक अस्वस्थता आणि ताण वाढतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "कवितेत शांततेचे महत्त्व का सांगितले आहे?",
+      "answer": "शांततेमुळे मन:शांती आणि संतुलन मिळते म्हणून."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "या कवितेचे आजच्या काळातील महत्त्व काय आहे?",
+      "answer": "आज गोंगाट वाढत असल्याने शांततेचे महत्त्व अधिक आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा-शैली कशी आहे?",
+      "answer": "सोप्या शब्दांत विचारप्रवर्तक शैली आहे."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "या कवितेतून विद्यार्थ्यांना काय शिकायला मिळते?",
+      "answer": "शांततेचे मूल्य ओळखणे आणि गोंगाट कमी ठेवणे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "कवितेत अधोरेखित झालेले मूल्य कोणते?",
+      "answer": "मानसिक शांततेचे महत्त्व."
+    }
+  ]
+}

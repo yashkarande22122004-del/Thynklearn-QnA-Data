@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.English.18",
+    "standard": "8",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A Battle to Baffle"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was the ruler of Vijayanagar Empire?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Krishnadevaraya",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shivaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ashoka",
+          "is_correct": false
+        }
+      ],
+      "answer": "Krishnadevaraya"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A warrior",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A poet and jester",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A priest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A trader",
+          "is_correct": false
+        }
+      ],
+      "answer": "A poet and jester"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane come to Vijayanagar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To teach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To challenge the scholars",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To meet the emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "To challenge the scholars"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What made the courtiers nervous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A war",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The emperor’s anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The scholar’s challenge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tenali Raman",
+          "is_correct": false
+        }
+      ],
+      "answer": "The scholar’s challenge"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who suggested calling Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mantriji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "First scholar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "First scholar"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What condition did Tenali Raman put forth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reward",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chief Pundit status for a day",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Freedom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chief Pundit status for a day"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How did Tenali Raman enter the court?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On a horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a palanquin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In disguise",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a palanquin"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What was the strange scripture called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Veda Samhita",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tilakashta-mahisha-bandhana",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Upanishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purana",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tilakashta-mahisha-bandhana"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane concede defeat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He feared punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He had never heard of it",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He had never heard of it"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was inside the silk bundle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sesame sticks and rope",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weapons",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sesame sticks and rope"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was the ruler of Vijayanagar Empire?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Krishnadevaraya",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shivaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ashoka",
+          "is_correct": false
+        }
+      ],
+      "answer": "Krishnadevaraya"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who was Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A warrior",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A poet and jester",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A priest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A trader",
+          "is_correct": false
+        }
+      ],
+      "answer": "A poet and jester"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane come to Vijayanagar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To teach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To challenge the scholars",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To meet the emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "To challenge the scholars"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What made the courtiers nervous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A war",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The emperor’s anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The scholar’s challenge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tenali Raman",
+          "is_correct": false
+        }
+      ],
+      "answer": "The scholar’s challenge"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who suggested calling Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mantriji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "First scholar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "First scholar"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What condition did Tenali Raman put forth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reward",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chief Pundit status for a day",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Freedom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chief Pundit status for a day"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How did Tenali Raman enter the court?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On a horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a palanquin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In disguise",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a palanquin"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What was the strange scripture called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Veda Samhita",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tilakashta-mahisha-bandhana",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Upanishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purana",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tilakashta-mahisha-bandhana"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane concede defeat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He feared punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He had never heard of it",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He had never heard of it"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What was inside the silk bundle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sesame sticks and rope",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weapons",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sesame sticks and rope"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who was the ruler of Vijayanagar Empire?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Krishnadevaraya",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shivaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ashoka",
+          "is_correct": false
+        }
+      ],
+      "answer": "Krishnadevaraya"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who was Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A warrior",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A poet and jester",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A priest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A trader",
+          "is_correct": false
+        }
+      ],
+      "answer": "A poet and jester"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane come to Vijayanagar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To teach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To challenge the scholars",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To meet the emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "To challenge the scholars"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What made the courtiers nervous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A war",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The emperor’s anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The scholar’s challenge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tenali Raman",
+          "is_correct": false
+        }
+      ],
+      "answer": "The scholar’s challenge"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who suggested calling Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mantriji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "First scholar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "First scholar"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What condition did Tenali Raman put forth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reward",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chief Pundit status for a day",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Freedom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chief Pundit status for a day"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "How did Tenali Raman enter the court?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On a horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a palanquin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In disguise",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a palanquin"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What was the strange scripture called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Veda Samhita",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tilakashta-mahisha-bandhana",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Upanishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purana",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tilakashta-mahisha-bandhana"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane concede defeat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He feared punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He had never heard of it",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He had never heard of it"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What was inside the silk bundle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sesame sticks and rope",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weapons",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sesame sticks and rope"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who was the ruler of Vijayanagar Empire?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Krishnadevaraya",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shivaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ashoka",
+          "is_correct": false
+        }
+      ],
+      "answer": "Krishnadevaraya"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who was Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A warrior",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A poet and jester",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A priest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A trader",
+          "is_correct": false
+        }
+      ],
+      "answer": "A poet and jester"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane come to Vijayanagar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To teach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To challenge the scholars",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To meet the emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "To challenge the scholars"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What made the courtiers nervous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A war",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The emperor’s anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The scholar’s challenge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tenali Raman",
+          "is_correct": false
+        }
+      ],
+      "answer": "The scholar’s challenge"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who suggested calling Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mantriji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "First scholar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "First scholar"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What condition did Tenali Raman put forth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reward",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chief Pundit status for a day",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Freedom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chief Pundit status for a day"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "How did Tenali Raman enter the court?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On a horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a palanquin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In disguise",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a palanquin"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What was the strange scripture called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Veda Samhita",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tilakashta-mahisha-bandhana",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Upanishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purana",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tilakashta-mahisha-bandhana"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane concede defeat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He feared punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He had never heard of it",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He had never heard of it"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What was inside the silk bundle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sesame sticks and rope",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weapons",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sesame sticks and rope"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who was the ruler of Vijayanagar Empire?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Krishnadevaraya",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shivaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ashoka",
+          "is_correct": false
+        }
+      ],
+      "answer": "Krishnadevaraya"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who was Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A warrior",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A poet and jester",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A priest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A trader",
+          "is_correct": false
+        }
+      ],
+      "answer": "A poet and jester"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane come to Vijayanagar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To teach",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To challenge the scholars",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To meet the emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "To challenge the scholars"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What made the courtiers nervous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A war",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The emperor’s anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The scholar’s challenge",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tenali Raman",
+          "is_correct": false
+        }
+      ],
+      "answer": "The scholar’s challenge"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who suggested calling Tenali Raman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mantriji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "First scholar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Emperor",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Guard",
+          "is_correct": false
+        }
+      ],
+      "answer": "First scholar"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What condition did Tenali Raman put forth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reward",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chief Pundit status for a day",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Money",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Freedom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chief Pundit status for a day"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "How did Tenali Raman enter the court?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "On a horse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In a palanquin",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "In disguise",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a palanquin"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What was the strange scripture called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Veda Samhita",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tilakashta-mahisha-bandhana",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Upanishad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purana",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tilakashta-mahisha-bandhana"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Why did Pundit Shahane concede defeat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He feared punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He had never heard of it",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He had never heard of it"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What was inside the silk bundle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sesame sticks and rope",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weapons",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sesame sticks and rope"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Why were the courtiers frightened?",
+      "answer": "They were afraid to face the learned Pundit Shahane."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What punishment did the emperor threaten?",
+      "answer": "He threatened to expel the scholars from his court."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman called to the court?",
+      "answer": "To save the honour of Vijayanagar scholars."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Why was Tenali Raman taken in a palanquin?",
+      "answer": "To honour him as the Chief Pundit for a day."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What was Pundit Shahane’s claim?",
+      "answer": "He claimed mastery over all scriptures."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "Why did Shahane fail the challenge?",
+      "answer": "He could not understand the strange scripture name."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What did til mean?",
+      "answer": "It means sesame."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What does mahisha-bandhana refer to?",
+      "answer": "A rope used to tie buffaloes."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What quality of Tenali Raman is shown?",
+      "answer": "His wit and intelligence."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the message of the skit?",
+      "answer": "Intelligence and presence of mind defeat arrogance."
+    }
+  ]
+}
